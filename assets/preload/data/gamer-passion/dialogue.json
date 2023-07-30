@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "lauc",
+			"text": "Y bueno Duxo, ¿se puede saber que fue de tu vida en todo este tiempo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Oh bueno, nada del otro mundo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Ando buscando a un amigo que desapareció.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "lauf",
+			"text": "Estoy segura que se encuentra bien.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau"
+		},
+		{
+			"expression": "lau",
+			"text": "Puede que pronto lo puedas volver a ver.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "lau",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Eso quiero...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Solo espero tener la razón.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

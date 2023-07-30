@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				0
+			],
+			"name": "MAU DOWN miss"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				23,
+				28
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "MAU UP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"offsets": [
+				-4,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "MAU IDL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mauwaa_assets",
+	"position": [
+		120,
+		190
+	],
+	"healthicon": "icon-mau",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		80,
+		255
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "lau",
+		"player1": "bf",
+		"player2": "lau",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro2",
+						"Sonando:",
+						"QUEEN\nDe: Kimakurus Music"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-car",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "queen"
+	}
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nimu Spacecat.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nimu 10000" x="0" y="0" width="430" height="688"/>
+	<SubTexture name="nimu 20000" x="430" y="0" width="402" height="688"/>
+	<SubTexture name="nimu 30000" x="832" y="0" width="436" height="688"/>
+	<SubTexture name="nimu 40000" x="1268" y="0" width="397" height="688"/>
+	<SubTexture name="nimu 50000" x="1665" y="0" width="356" height="689"/>
+	<SubTexture name="nimu 60000" x="0" y="689" width="353" height="689"/>
+</TextureAtlas>

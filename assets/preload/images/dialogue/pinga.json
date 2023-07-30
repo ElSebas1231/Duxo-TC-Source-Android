@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-20,
+		20
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				60
+			],
+			"idle_offsets": [
+				-1,
+				59
+			],
+			"loop_name": "lucasta corrupted 10000",
+			"idle_name": "lucasta corrupted 10000"
+		},
+		{
+			"loop_offsets": [
+				-50,
+				54
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-50,
+				54
+			],
+			"loop_name": "lucasta corrupted 20000",
+			"idle_name": "lucasta corrupted 20000"
+		},
+		{
+			"loop_offsets": [
+				-54,
+				30
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-56,
+				29
+			],
+			"loop_name": "lucasta corrupted 30000",
+			"idle_name": "lucasta corrupted 30000"
+		}
+	],
+	"image": "pinga"
+}

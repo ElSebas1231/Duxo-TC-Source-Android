@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo feliz",
+			"text": "¿Me puedo quedar a dormir aquí?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"sound": ""
+		},
+		{
+			"expression": "creisin",
+			"text": "Por lo que veo, no estás acostumbrado a estar solo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿A qué?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"sound": ""
+		},
+		{
+			"expression": "duxo tite",
+			"text": "No es eso, si no que Aquino desapareció con las llaves de la casa...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"sound": ""
+		},
+		{
+			"expression": "creisif",
+			"text": "jaja que imbécil",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "creisin",
+			"text": "Supongo que puedes dormir en la alfombra de Andreh.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Dormía en una alfombra?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"sound": ""
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Ganando millones como editor?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"sound": "",
+			"portrait": "duxo"
+		},
+		{
+			"expression": "creisis",
+			"text": "Duxo... Es un animal...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "creisif",
+			"text": "Y un animal con dinero.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "creisin",
+			"text": "Pero según el, esa es una cama.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"sound": ""
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Me quedo con la alfombra..",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "creisin",
+			"text": "Aunque.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "creisin",
+			"text": "También podrías usar mi cama.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "creisif",
+			"text": "De todas formas yo no duermo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Y entonces...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"sound": ""
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Para qué tienes una cama?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"sound": ""
+		},
+		{
+			"expression": "creisi normal",
+			"text": "si.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "creisi",
+			"sound": ""
+		}
+	]
+}

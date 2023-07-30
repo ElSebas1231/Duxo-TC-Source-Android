@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				-94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-99
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-198,
+				-97
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-161,
+				-93
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/andrehXcreisi",
+	"position": [
+		-250,
+		-60
+	],
+	"healthicon": "icon-explotadorychuletas",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		2,
+		95
+	],
+	"camera_position": [
+		260,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

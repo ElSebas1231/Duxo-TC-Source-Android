@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				-109
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				-177
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-201,
+				-83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/creisi_andreh_assets",
+	"position": [
+		-180,
+		60
+	],
+	"healthicon": "icon-vacaloca",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		30,
+		174
+	],
+	"camera_position": [
+		260,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

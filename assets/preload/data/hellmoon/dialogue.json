@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxoconfuso",
+			"text": "Natalan...",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Por favor dime que no estoy loco y que ese payaso morado es real.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nata confuso",
+			"text": "Ehhh...",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata",
+			"text": "Pues se ve bastante real para mi.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¡¡NATALAN!!!",
+			"sound": "",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¡¡EL SABE DONDE ESTA MI AMIGO!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nata confuso",
+			"text": "¿De verdad?",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno... En realidad no lo sé.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Él hizo que desapareciera en primer lugar.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nata nojao",
+			"text": "¡HEY TÚ!",
+			"sound": "",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata nojao",
+			"text": "¡¿DÓNDE ESTÁ EL AMIGO DE DUXO?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡NATALAN! ¡¿QUÉ HAGO?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "Tranquilo no puede escapar.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata confuso",
+			"text": "...",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata 2",
+			"text": "Olvídalo, ya se fue...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Maldición...",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Tan cerca y tan lejos.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Duxo"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "¡Ánimo Superestrella! ¡Arriba esos ánimos!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "Esto es lo que haremos.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "Tendremos otro round más...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "Te lavarás esa cara de perdedor...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "Y buscaras a ese cara de resorte.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "Y entonces, le partiré su pu- cara.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "!Esoooo!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "No hay nada mejor que la violencia innecesaria.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		}
+	]
+}

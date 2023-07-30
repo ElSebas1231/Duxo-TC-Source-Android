@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "locochon happy",
+			"text": "Nada mal, jejeje",
+			"boxState": "normal",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "locochon normal",
+			"text": "Diría que estuve bien.",
+			"boxState": "normal",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "sí.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Ahora veamos que tal te va con la siguiente canción.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "desanimadoAquino",
+			"text": "Oigan chicos, mi cuello me esta comenzando a doler...",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "a bueno.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "locochon normal",
+			"text": "ta bien.",
+			"boxState": "normal",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "Bruh...",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "pingasta",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lucas",
+			"idle_offsets": [
+				-11,
+				11
+			],
+			"loop_name": "lucasta normal",
+			"idle_name": "lucasta normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lucasconfu",
+			"idle_offsets": [
+				-13,
+				14
+			],
+			"loop_name": "lucasta nervioso",
+			"idle_name": "lucasta nervioso"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lucassexo",
+			"idle_offsets": [
+				-8,
+				17
+			],
+			"loop_name": "lucasta sorprendido",
+			"idle_name": "lucasta sorprendido"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lucasj",
+			"idle_offsets": [
+				-9,
+				17
+			],
+			"loop_name": "lucasta risa",
+			"idle_name": "lucasta risa"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lucasd",
+			"idle_offsets": [
+				-22,
+				1
+			],
+			"loop_name": "lucasta desafiante",
+			"idle_name": "lucasta desafiante"
+		}
+	]
+}

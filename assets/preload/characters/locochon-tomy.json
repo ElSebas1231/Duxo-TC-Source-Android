@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Parent Christmas Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				25
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Parent Up Note Dad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-43,
+				-33
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Parent Down Note Dad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				22
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Parent Left Note Dad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-23
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Parent Right Note Dad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-21
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Parent Right Note Mom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-42,
+				-32
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Parent Down Note Mom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				21
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Parent Left Note Mom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				31
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Parent Up Note Mom",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Locochon_Tomy_assetss",
+	"position": [
+		-300,
+		-10
+	],
+	"healthicon": "icon-locochon-tomy",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		36,
+		147
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

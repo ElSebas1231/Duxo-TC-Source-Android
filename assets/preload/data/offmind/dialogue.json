@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Amigo, estás enfermo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pinga"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Comienzo a notar que estás disfrutando este lugar."
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Qué te puedo decir...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Uno debe ser feliz hasta el final, ¿verdad?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "pissed",
+			"text": "JEJEJE... Sí...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pinga"
+		},
+		{
+			"expression": "talk",
+			"text": "Hagamos esto más interesante...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pinga"
+		},
+		{
+			"expression": "talk",
+			"text": "Si tú ganas, te dejo ir, disfrutando de lo que quede de tu miserable vida...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pinga"
+		},
+		{
+			"expression": "talk",
+			"text": "Pero si cometes el más mínimo error...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pinga"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "¡MUERES!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Qué dices?"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Me parece bien.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

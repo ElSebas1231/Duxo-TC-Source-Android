@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Duxo LEFT angry"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Duxo IDL dance angry"
+		},
+		{
+			"offsets": [
+				-14,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Duxo DOWN angry"
+		},
+		{
+			"offsets": [
+				-30,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Duxo UP angry"
+		},
+		{
+			"offsets": [
+				-32,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Duxo RIGHT angry"
+		},
+		{
+			"offsets": [
+				12,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Duxo LEFT MISS angry"
+		},
+		{
+			"offsets": [
+				0,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Duxo DOWN MISS angry"
+		},
+		{
+			"offsets": [
+				-22,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Duxo UP MISS angry"
+		},
+		{
+			"offsets": [
+				-25,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Duxo RIGHT MISS angry"
+		},
+		{
+			"offsets": [
+				-5,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "defense",
+			"indices": [],
+			"name": "Duxo DEFENSE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duxo_assets_angry",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-duxo",
+	"flip_x": true,
+	"healthbar_colors": [
+		129,
+		56,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

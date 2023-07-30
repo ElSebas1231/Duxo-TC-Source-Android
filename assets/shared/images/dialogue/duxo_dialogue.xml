@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="duxo.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="duxo confundido0000" x="0" y="0" width="422" height="498"/>
+	<SubTexture name="duxo desanimado0000" x="422" y="0" width="356" height="501"/>
+	<SubTexture name="duxo enojado0000" x="778" y="0" width="380" height="481"/>
+	<SubTexture name="duxo feliz0000" x="1158" y="0" width="402" height="502"/>
+	<SubTexture name="duxo miedo0000" x="1560" y="0" width="397" height="501"/>
+	<SubTexture name="duxo nervioso0000" x="0" y="502" width="409" height="501"/>
+	<SubTexture name="duxo normal0000" x="409" y="502" width="427" height="501"/>
+</TextureAtlas>

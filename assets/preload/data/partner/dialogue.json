@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "Sabes... Creo que puedo salir de esta.",
+			"boxState": "normal",
+			"portrait": "soaring",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "¿Qué te parece si despues de esto vamos a buscar a Aquino juntos?",
+			"boxState": "normal",
+			"portrait": "soaring",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Eso me gustaria.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Si todo está asi de mal, me preocupa saber dónde estará..",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Siento que debe de estar bien.",
+			"boxState": "normal",
+			"portrait": "soaring",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Quién sabe...",
+			"boxState": "normal",
+			"portrait": "soaring",
+			"speed": 0.08,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Quizás y está con los chicos.",
+			"boxState": "normal",
+			"portrait": "soaring",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "No creo que haya mucho de que preocuparnos.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Ojalá...",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.105,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo feliz",
+			"text": "¿Te parece si cantamos una última cancion antes de irnos?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Está bien Duxo."
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "Tkm Koifee :D",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weeka6D1",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Enano",
+			"bf",
+			[
+				49,
+				176,
+				209
+			]
+		],
+		[
+			"Test",
+			"bf",
+			[
+				49,
+				176,
+				209
+			]
+		],
+		[
+			"Cuzvy Attacks",
+			"cuzvy",
+			[
+				235,
+				171,
+				120
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

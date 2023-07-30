@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				284,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				139,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				224,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				135,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				171
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/creisi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-creisi",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		40,
+		82
+	],
+	"camera_position": [
+		0,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

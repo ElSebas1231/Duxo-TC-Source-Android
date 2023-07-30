@@ -1,0 +1,152 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				655,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				681,
+				-102
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				602,
+				-121
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing_Left",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				645,
+				-141
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing_Down",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				707,
+				-58
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing_Up",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				647,
+				-154
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down_Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				685,
+				-106
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				707,
+				-55
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up_Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				601,
+				-126
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Left_Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DuxoWhen",
+	"position": [
+		-100,
+		300
+	],
+	"healthicon": "icon-duxo",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		0,
+		255
+	],
+	"camera_position": [
+		370,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

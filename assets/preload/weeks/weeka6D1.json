@@ -1,0 +1,44 @@
+{
+	"storyName": "Movistar Simulator",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeka5D1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"RETHEYS",
+			"icon-rata",
+			[
+				183,
+				163,
+				189
+			]
+		],
+		[
+			"Watch Out",
+			"icon-rata",
+			[
+				183,
+				163,
+				189
+			]
+		],
+		[
+			"Oh shit a rat",
+			"icon-rata",
+			[
+				183,
+				163,
+				189
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6 FNF X Duxo"
+}

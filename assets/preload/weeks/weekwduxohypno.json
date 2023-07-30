@@ -1,0 +1,41 @@
+{
+	"storyName": "Duxo's Lullaby",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekaa5D2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"maussigno",
+			"missingcat-icon",
+			[
+				128,
+				112,
+				152
+			]
+		],
+		[
+			"Restless",
+			"icon-monochrome-mau",
+			[
+				17,
+				17,
+				17
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Duxo's Lullaby",
+	"hiddenUntilUnlocked": false
+}

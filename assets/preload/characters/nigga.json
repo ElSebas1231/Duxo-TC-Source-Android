@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				83
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Duxo IDL dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				77
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Duxo LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				102
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Duxo UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				79
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Duxo RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				80
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Duxo LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Duxo DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				54
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Duxo DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				114
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Duxo UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				97
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Duxo RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-99,
+				95
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Duxo dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				119
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Duxo dead comfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				101
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Duxo DIES",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duxo_WhiteOutline",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-duxo2",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		0,
+		35
+	],
+	"camera_position": [
+		0,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

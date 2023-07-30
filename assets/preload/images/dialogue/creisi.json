@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				-75,
+				-18
+			],
+			"anim": "creisi",
+			"loop_offsets": [
+				-30,
+				-30
+			],
+			"idle_name": "creisi 0",
+			"loop_name": "creisi 0"
+		},
+		{
+			"idle_offsets": [
+				-72,
+				-22
+			],
+			"anim": "creisif",
+			"loop_offsets": [
+				-30,
+				-30
+			],
+			"idle_name": "creisi feliz",
+			"loop_name": "creisi feliz"
+		},
+		{
+			"idle_offsets": [
+				-86,
+				-25
+			],
+			"anim": "creisin",
+			"loop_offsets": [
+				-30,
+				-30
+			],
+			"idle_name": "creisi normal",
+			"loop_name": "creisi normal"
+		},
+		{
+			"idle_offsets": [
+				-78,
+				-19
+			],
+			"anim": "creisis",
+			"loop_offsets": [
+				-30,
+				-40
+			],
+			"idle_name": "creisi sorprendido",
+			"loop_name": "creisi sorprendido"
+		},
+		{
+			"idle_offsets": [
+				-86,
+				-25
+			],
+			"anim": "creisi normal",
+			"loop_offsets": [
+				-30,
+				-20
+			],
+			"idle_name": "creisi normal",
+			"loop_name": "creisi normal"
+		}
+	],
+	"image": "creisi"
+}

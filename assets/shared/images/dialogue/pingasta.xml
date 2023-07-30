@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pingasta.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lucasta desafiante0000" x="0" y="0" width="507" height="551"/>
+	<SubTexture name="lucasta nervioso0000" x="507" y="0" width="443" height="540"/>
+	<SubTexture name="lucasta normal0000" x="950" y="0" width="463" height="529"/>
+	<SubTexture name="lucasta risa0000" x="1413" y="0" width="484" height="549"/>
+	<SubTexture name="lucasta sorprendido0000" x="0" y="551" width="446" height="543"/>
+</TextureAtlas>

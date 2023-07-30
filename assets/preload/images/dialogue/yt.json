@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		-90
+	],
+	"no_antialiasing": false,
+	"scale": 1.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-60,
+				-41
+			],
+			"idle_offsets": [
+				-61,
+				-41
+			],
+			"loop_name": "youtube corrupted 10000",
+			"idle_name": "youtube corrupted 10000"
+		},
+		{
+			"loop_offsets": [
+				-42,
+				-47
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-42,
+				-48
+			],
+			"loop_name": "youtube corrupted 20000",
+			"idle_name": "youtube corrupted 20000"
+		},
+		{
+			"loop_offsets": [
+				-47,
+				-48
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-50,
+				-48
+			],
+			"loop_name": "youtube corrupted 30000",
+			"idle_name": "youtube corrupted 30000"
+		},
+		{
+			"loop_offsets": [
+				-24,
+				-30
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-26,
+				-31
+			],
+			"loop_name": "youtube corrupted 40000",
+			"idle_name": "youtube corrupted 40000"
+		}
+	],
+	"image": "yt"
+}

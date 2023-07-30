@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "cuzvy",
+		"player1": "bf",
+		"player2": "cuzvy",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"IntroCuzvy",
+						"Cuzvy",
+						"Mascota de Bikupys"
+					]
+				]
+			],
+			[
+				5083.33333333333,
+				[
+					[
+						"IntroCuzvy2",
+						"Sonando:",
+						"Cuzvy Attacks\nDe: Koifee"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "aquinoperro",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "cuzvy-atack"
+	}
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Y bueno...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Si se puede saber que buscarás en el mall?"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Bueno... Buscaré un viejo local de Movistar para ser exacto.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Eso es demasiado específico...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"expression": "talk",
+			"text": "¿Se puede saber el porqué?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"expression": "talk",
+			"text": "Pues tengo una teoría, y si llega a ser verdad...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Entonces podré salir de aqui.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Salir... Eso suena divertido",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "lau 2"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Lo sé.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

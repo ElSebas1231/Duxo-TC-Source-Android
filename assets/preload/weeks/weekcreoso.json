@@ -1,0 +1,31 @@
+{
+	"storyName": "Vs. Andreh",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeka2D1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Milky Tits",
+			"andreh",
+			[
+				235,
+				2,
+				40
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Vs. Andreh"
+}

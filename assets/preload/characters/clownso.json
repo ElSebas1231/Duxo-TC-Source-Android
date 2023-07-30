@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Parent Christmas Idle"
+		},
+		{
+			"offsets": [
+				-221,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Parent Left Note Dad"
+		},
+		{
+			"offsets": [
+				-200,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Parent Right Note Dad"
+		},
+		{
+			"offsets": [
+				-238,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Parent Down Note Dad"
+		},
+		{
+			"offsets": [
+				-240,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Parent Up Note Dad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/clownso",
+	"position": [
+		-580,
+		-70
+	],
+	"healthicon": "icon-clownso",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		29,
+		114
+	],
+	"camera_position": [
+		290,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

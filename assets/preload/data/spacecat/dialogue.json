@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxoconfuso",
+			"text": "Entonces... ¿Tú sabes algo sobre Aquino?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "derp",
+			"text": "Nop.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nimu",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Rayos...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Hace semanas que no sé nada de él.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Estoy comenzando a preocuparme más y más.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "derp",
+			"text": "¿Y no que eras su mejor amigo y eso?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nimu",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Si pero...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Tu no lo entenderías.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Algo pasó en...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno da igual... Algo pasó y hasta ahora no sé nada de él.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "nimu",
+			"text": "Ya Duplo, dejá de decir boludeces.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nimu",
+			"speed": 0.05
+		},
+		{
+			"expression": "nimu feliz",
+			"text": "Solo llamá a Aquino y ya.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nimu",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Si fuese así de fácil...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		}
+	]
+}

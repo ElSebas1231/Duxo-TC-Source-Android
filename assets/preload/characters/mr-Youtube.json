@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-99
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-350,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-308,
+				-135
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mrYT_assets",
+	"position": [
+		-370,
+		-20
+	],
+	"healthicon": "icon-youtube",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		25,
+		62
+	],
+	"camera_position": [
+		410,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				45,
+				-2
+			],
+			"anim": "duxohabla",
+			"loop_offsets": [
+				45,
+				-2
+			],
+			"idle_name": "duxo normal",
+			"loop_name": "duxo normal"
+		},
+		{
+			"idle_offsets": [
+				40,
+				-1
+			],
+			"anim": "duxoconfuso",
+			"loop_offsets": [
+				40,
+				-1
+			],
+			"idle_name": "duxo confundido",
+			"loop_name": "duxo confundido"
+		},
+		{
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"anim": "duxo nojao",
+			"loop_offsets": [
+				0,
+				-8
+			],
+			"idle_name": "duxo enojado",
+			"loop_name": "duxo enojado"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "duxo tite",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "duxo desanimado",
+			"loop_name": "duxo desanimado"
+		},
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"anim": "duxo miedo",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "duxo miedo",
+			"loop_name": "duxo miedo"
+		},
+		{
+			"idle_offsets": [
+				24,
+				-1
+			],
+			"anim": "duxo feliz",
+			"loop_offsets": [
+				24,
+				-1
+			],
+			"idle_name": "duxo feliz",
+			"loop_name": "duxo feliz"
+		},
+		{
+			"loop_name": "duxo nervioso",
+			"idle_offsets": [
+				40,
+				0
+			],
+			"idle_name": "duxo nervioso",
+			"anim": "duxo nervioso",
+			"loop_offsets": [
+				40,
+				0
+			]
+		}
+	],
+	"image": "duxo_dialogue"
+}

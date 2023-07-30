@@ -1,0 +1,260 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo tite",
+			"text": "Fuck...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo tite",
+			"text": "Me duelen las piernas del salto, pero no tenía otra opción."
+		},
+		{
+			"expression": "talk",
+			"text": "Bueno... ya estoy dentro de este lugar.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Está completamente vacío... No voy a mentir, esto si da un poquito de miedo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Ok, el local debe estar cerca.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "*Sonido de que se cae algo*",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Mrd... Debo apurarme.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "¿Por qué la prisa amigo?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nada",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo tite",
+			"text": "Hagamos esto rápido, te doy todo mi dinero y me dejas ir."
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "Espera... ¿Natalan?!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Amigo hace siglos no nos vemos.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Asi es, desde Chafaland si no mal recuerdo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "No te voy a mentir, el morado te queda re piola.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Gracias.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Mira Duxo, se lo que estás buscando.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Se que quieres irte de aquí y que estás muy cerca de poder lograrlo...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Pero sabes... No puedo dejarte hacer eso.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Todo es más divertido aquí... Es una fiesta infinita en el paralelo..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo tite",
+			"text": "(Desde que llegue aquí, no han parado de mencionar el paralelo y empieza a ser molesto.)"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Lo sé... Hace mucho no sentía tanta adrenalina",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "He pasado por más cosas aquí que en toda mi vida",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Creo que la locura me está afectando...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "¿Y qué esperas? ¿Acaso tienes miedo de hacerlo. . .?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Antes que nada, debo encontrar a Aquino..",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "¿Ese cabrón?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "¡Jajajaja! ¡Ese man ya está muero!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Pero quizás, él ya es parte del paralelo...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Bueno Natalan...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tengamos la mejor batalla de rap que el paralelo vió en toda su existencia."
+		},
+		{
+			"expression": "excited",
+			"text": "Jejejeje...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Definitivamente ya estás loco Duxo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nat",
+			"speed": 0.05
+		}
+	]
+}

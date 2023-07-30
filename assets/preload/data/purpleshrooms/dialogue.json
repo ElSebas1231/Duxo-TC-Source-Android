@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "creisi normal",
+			"text": "Este...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi"
+		},
+		{
+			"expression": "creisin",
+			"text": "No es que me moleste o algo así...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi"
+		},
+		{
+			"expression": "creisif",
+			"text": "Pero, ¿porqué Aquino trajo una bocina gigante a la casa?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi"
+		},
+		{
+			"expression": "andreh happy",
+			"text": "A mi me gusta, ¡se ve linda!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "andreh"
+		},
+		{
+			"expression": "creisin",
+			"text": "Ósea si, ¿pero porqué?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Estuve 4 horas sentado en ella.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"boxState": "normal",
+			"expression": "talkAquino",
+			"text": "Así que ahora es mía."
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Yo le dije que no se la llevara.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Pero no me hizo caso.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "andreh miedo",
+			"text": "¿Eso no se le considera robar?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "andreh"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Nah",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "creisi",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.16,
+			"portrait": "creisi"
+		},
+		{
+			"expression": "creisif",
+			"text": "Aquino saca eso de mi casa porfavor.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi"
+		}
+	]
+}

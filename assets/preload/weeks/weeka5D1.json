@@ -1,0 +1,44 @@
+{
+	"storyName": "Spooky Mall",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "weeka4D1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Best Friends",
+			"icon-locochon-tomy",
+			[
+				36,
+				20,
+				54
+			]
+		],
+		[
+			"Funk You Duxo",
+			"icon-locochon-tomy",
+			[
+				36,
+				20,
+				54
+			]
+		],
+		[
+			"Deep Web",
+			"icon-youtube",
+			[
+				255,
+				40,
+				94
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5 FNF X Duxo"
+}

@@ -1,0 +1,30 @@
+{
+	"storyName": "Triple Trouble Port",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekab6D3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Triple Trouble",
+			"aquino4",
+			[
+				174,
+				56,
+				149
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Triple Trouble"
+}

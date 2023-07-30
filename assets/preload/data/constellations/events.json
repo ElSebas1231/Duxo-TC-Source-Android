@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "nemo",
+		"player1": "bf",
+		"player2": "nimu",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro2",
+						"Sonando:",
+						"Constellations\nDe: Kimakurus Music"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Constellations"
+	}
+}

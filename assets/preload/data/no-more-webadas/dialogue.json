@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo nojao",
+			"text": "No te vas a ir tan fácil Aquino.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquinob",
+			"text": "Si sabes que te tengo que matar, ¿verdad?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "bugeado2002",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Si no le hago caso al payaso, las cosas se pondrán mucho peor... ",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "bugeado2002",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquinoc",
+			"text": "Para los dos.",
+			"sound": "",
+			"boxState": "normal",
+			"portrait": "bugeado2002",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Ah mira, eso no lo sabía.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Por ahora, lo que sé, es que no te voy a dejar solo en esto.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		}
+	]
+}

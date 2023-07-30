@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxoconfuso",
+			"text": "Se que nos estamos peleando y todo eso pero...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Es normal que cambies tanto de forma?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquino3",
+			"text": "A este punto...",
+			"sound": "",
+			"boxState": "normal",
+			"portrait": "aquino_corrupted",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquino4",
+			"text": "Ya no se que es normal y que no desde que estoy aquí.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "aquino_corrupted",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquino1",
+			"text": "Pero supongo que esto me debe ayudar a acabar contigo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "aquino_corrupted",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Ja... Ya veremos eso.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquino1",
+			"text": "Sabes...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "aquino_corrupted",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquino1",
+			"text": "Podrias irte y ya...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "aquino_corrupted",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquino2",
+			"text": "Eres mi amigo y prefiero pasar solo por esto.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "aquino_corrupted",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Los amigos son amigos para siempre y por siempre, ¿que no?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquino1",
+			"text": "Si...",
+			"sound": "",
+			"boxState": "normal",
+			"portrait": "aquino_corrupted",
+			"speed": 0.05
+		},
+		{
+			"expression": "aquino3",
+			"text": "Pero no puedo dejarte ganar tan fácil.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "aquino_corrupted",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Lo sabía...",
+			"sound": "",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05
+		}
+	]
+}

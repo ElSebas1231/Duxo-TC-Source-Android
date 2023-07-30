@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bien, ganaste, y tal y como acordamos..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Te enviaré al mundo normal, nos vemos Duxo."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo tite",
+			"text": "Ojalá y pueda encontrar a Aquino..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nada",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Continuará..."
+		}
+	]
+}

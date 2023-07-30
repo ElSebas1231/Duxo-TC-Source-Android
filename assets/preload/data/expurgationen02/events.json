@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "tiky",
+		"player1": "bf",
+		"player2": "aquinotiky",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"IntroExpurgation",
+						"Sonando:",
+						"Expurgationen2002 (Expurgation Cover) Cover por: Koifee"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 230,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "expurgationen2022"
+	}
+}

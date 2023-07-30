@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kima_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kima Idle0000" x="0" y="0" width="223" height="334"/>
+	<SubTexture name="Kima Idle0001" x="0" y="0" width="223" height="334"/>
+	<SubTexture name="Kima Idle0002" x="233" y="0" width="221" height="332" frameX="-1" frameY="-1" frameWidth="223" frameHeight="334"/>
+	<SubTexture name="Kima Idle0003" x="233" y="0" width="221" height="332" frameX="-1" frameY="-1" frameWidth="223" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0000" x="464" y="0" width="244" height="285" frameX="0" frameY="-49" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0001" x="464" y="0" width="244" height="285" frameX="0" frameY="-49" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0002" x="718" y="0" width="237" height="292" frameX="-3" frameY="-42" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0003" x="718" y="0" width="237" height="292" frameX="-3" frameY="-42" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0004" x="0" y="344" width="237" height="292" frameX="-3" frameY="-39" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0005" x="247" y="344" width="237" height="292" frameX="-3" frameY="-39" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0006" x="494" y="344" width="228" height="299" frameX="-8" frameY="-32" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0007" x="732" y="344" width="228" height="299" frameX="-8" frameY="-32" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0008" x="0" y="653" width="220" height="299" frameX="-11" frameY="-30" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0009" x="230" y="653" width="215" height="299" frameX="-14" frameY="-26" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0010" x="455" y="653" width="215" height="307" frameX="-14" frameY="-15" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0011" x="680" y="653" width="215" height="319" frameX="-14" frameY="-5" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0012" x="0" y="982" width="215" height="319" frameX="-14" frameY="-5" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0013" x="225" y="982" width="215" height="319" frameX="-14" frameY="-5" frameWidth="244" frameHeight="334"/>
+	<SubTexture name="Kima Spawn Full0014" x="450" y="982" width="223" height="334" frameX="-10" frameY="0" frameWidth="244" frameHeight="334"/>
+</TextureAtlas>

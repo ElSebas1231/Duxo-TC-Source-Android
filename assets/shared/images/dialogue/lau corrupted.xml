@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lau corrupted.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lau corrupted 10000" x="0" y="0" width="422" height="605"/>
+	<SubTexture name="lau corrupted 20000" x="422" y="0" width="476" height="605"/>
+	<SubTexture name="lau corrupted 30000" x="898" y="0" width="409" height="605"/>
+</TextureAtlas>

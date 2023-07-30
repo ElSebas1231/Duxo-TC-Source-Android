@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="locochon 2.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="locochon 2 confundido0000" x="0" y="0" width="371" height="536"/>
+	<SubTexture name="locochon 2 enojado0000" x="371" y="0" width="378" height="535"/>
+	<SubTexture name="locochon 2 feliz0000" x="749" y="0" width="381" height="535"/>
+	<SubTexture name="locochon 2 miedo0000" x="1130" y="0" width="378" height="538"/>
+	<SubTexture name="locochon 2 normal0000" x="1508" y="0" width="380" height="535"/>
+	<SubTexture name="locochon 2 serio0000" x="0" y="538" width="389" height="531"/>
+</TextureAtlas>

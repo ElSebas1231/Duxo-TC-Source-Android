@@ -1,0 +1,50 @@
+{
+	"storyName": "Especial de Halloween de Kimakurus",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		24,
+		5,
+		38
+	],
+	"weekBefore": "weekaa5D2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Streamer",
+			"corruptedduxo",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"Rivals",
+			"natalan",
+			[
+				120,
+				209,
+				255
+			]
+		],
+		[
+			"Electric Dove",
+			"duxo",
+			[
+				106,
+				0,
+				150
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Especial de Halloween de Kimakurus",
+	"hiddenUntilUnlocked": false
+}

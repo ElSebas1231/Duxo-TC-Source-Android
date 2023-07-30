@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="youtube corrupted.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="youtube corrupted 10000" x="0" y="0" width="375" height="561"/>
+	<SubTexture name="youtube corrupted 20000" x="375" y="0" width="398" height="550"/>
+	<SubTexture name="youtube corrupted 30000" x="773" y="0" width="428" height="554"/>
+	<SubTexture name="youtube corrupted 40000" x="1201" y="0" width="487" height="553"/>
+</TextureAtlas>

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="duxo_car_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Duxo DIES0000" x="0" y="0" width="389" height="484" frameX="-2" frameY="0" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0001" x="399" y="0" width="396" height="484" frameX="-2" frameY="0" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0002" x="805" y="0" width="398" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0003" x="1213" y="0" width="401" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0004" x="1624" y="0" width="401" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0005" x="2035" y="0" width="405" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0006" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0007" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0008" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0009" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0010" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0011" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0012" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0013" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0014" x="2450" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0015" x="2851" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0016" x="2851" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0017" x="2851" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0018" x="3252" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0019" x="3252" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0020" x="3653" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0021" x="3653" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0022" x="4054" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0023" x="4054" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0024" x="4455" y="0" width="391" height="477" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0025" x="4856" y="0" width="391" height="487" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0026" x="4856" y="0" width="391" height="487" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0027" x="5257" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0028" x="5257" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0029" x="5658" y="0" width="391" height="483" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0030" x="5658" y="0" width="391" height="483" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0031" x="6059" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0032" x="6059" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0033" x="6059" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0034" x="6059" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0035" x="6059" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0036" x="6059" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0037" x="6059" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0038" x="6460" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0039" x="6460" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0040" x="6460" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0041" x="6460" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0042" x="6861" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0043" x="6861" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0044" x="6861" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0045" x="6861" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0046" x="7262" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0047" x="7262" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0048" x="7262" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0049" x="7262" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0050" x="7663" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0051" x="7663" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0052" x="7663" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0053" x="7663" y="0" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0054" x="0" y="497" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0055" x="0" y="497" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0056" x="0" y="497" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DIES0057" x="0" y="497" width="391" height="484" frameX="0" frameY="-6" frameWidth="405" frameHeight="493"/>
+	<SubTexture name="Duxo DOWN0000" x="401" y="497" width="369" height="427" frameX="0" frameY="-6" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0001" x="401" y="497" width="369" height="427" frameX="0" frameY="-6" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0002" x="780" y="497" width="366" height="433" frameX="0" frameY="0" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0003" x="780" y="497" width="366" height="433" frameX="0" frameY="0" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0004" x="1156" y="497" width="366" height="433" frameX="0" frameY="0" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0005" x="1156" y="497" width="366" height="433" frameX="0" frameY="0" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0006" x="1156" y="497" width="366" height="433" frameX="0" frameY="0" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0007" x="1156" y="497" width="366" height="433" frameX="0" frameY="0" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0008" x="1156" y="497" width="366" height="433" frameX="0" frameY="0" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN0009" x="1156" y="497" width="366" height="433" frameX="0" frameY="0" frameWidth="369" frameHeight="433"/>
+	<SubTexture name="Duxo DOWN MISS0000" x="1532" y="497" width="369" height="427" frameX="-6" frameY="-31" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0001" x="1911" y="497" width="374" height="457" frameX="-3" frameY="0" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0002" x="1911" y="497" width="374" height="457" frameX="-3" frameY="0" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0003" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0004" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0005" x="2685" y="497" width="380" height="450" frameX="0" frameY="-7" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0006" x="2685" y="497" width="380" height="450" frameX="0" frameY="-7" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0007" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0008" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0009" x="2685" y="497" width="380" height="450" frameX="0" frameY="-7" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0010" x="2685" y="497" width="380" height="450" frameX="0" frameY="-7" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0011" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0012" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0013" x="2685" y="497" width="380" height="450" frameX="0" frameY="-7" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0014" x="2685" y="497" width="380" height="450" frameX="0" frameY="-7" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0015" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0016" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0017" x="2685" y="497" width="380" height="450" frameX="0" frameY="-7" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0018" x="2685" y="497" width="380" height="450" frameX="0" frameY="-7" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo DOWN MISS0019" x="2295" y="497" width="380" height="451" frameX="0" frameY="-6" frameWidth="380" frameHeight="458"/>
+	<SubTexture name="Duxo IDL dance0000" x="3075" y="497" width="376" height="466" frameX="0" frameY="-13" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0001" x="3075" y="497" width="376" height="466" frameX="0" frameY="-13" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0002" x="3461" y="497" width="374" height="471" frameX="0" frameY="-8" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0003" x="3461" y="497" width="374" height="471" frameX="0" frameY="-8" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0004" x="3845" y="497" width="371" height="473" frameX="0" frameY="-6" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0005" x="3845" y="497" width="371" height="473" frameX="0" frameY="-6" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0006" x="4226" y="497" width="371" height="476" frameX="0" frameY="-3" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0007" x="4226" y="497" width="371" height="476" frameX="0" frameY="-3" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0008" x="4607" y="497" width="372" height="479" frameX="-1" frameY="0" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0009" x="4607" y="497" width="372" height="479" frameX="-1" frameY="0" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0010" x="4607" y="497" width="372" height="479" frameX="-1" frameY="0" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0011" x="4607" y="497" width="372" height="479" frameX="-1" frameY="0" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0012" x="4607" y="497" width="372" height="479" frameX="-1" frameY="0" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo IDL dance0013" x="4607" y="497" width="372" height="479" frameX="-1" frameY="0" frameWidth="376" frameHeight="479"/>
+	<SubTexture name="Duxo LEFT0000" x="4989" y="497" width="381" height="474" frameX="0" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0001" x="4989" y="497" width="381" height="474" frameX="0" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0002" x="5380" y="497" width="370" height="474" frameX="-13" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0003" x="5380" y="497" width="370" height="474" frameX="-13" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0004" x="5760" y="497" width="370" height="474" frameX="-13" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0005" x="5760" y="497" width="370" height="474" frameX="-13" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0006" x="5760" y="497" width="370" height="474" frameX="-13" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0007" x="5760" y="497" width="370" height="474" frameX="-13" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0008" x="5760" y="497" width="370" height="474" frameX="-13" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT0009" x="5760" y="497" width="370" height="474" frameX="-13" frameY="0" frameWidth="383" frameHeight="474"/>
+	<SubTexture name="Duxo LEFT MISS0000" x="6140" y="497" width="381" height="474" frameX="0" frameY="-8" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0001" x="6531" y="497" width="371" height="483" frameX="-15" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0002" x="6531" y="497" width="371" height="483" frameX="-15" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0003" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0004" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0005" x="7299" y="497" width="377" height="483" frameX="-8" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0006" x="7299" y="497" width="377" height="483" frameX="-8" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0007" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0008" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0009" x="7299" y="497" width="377" height="483" frameX="-8" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0010" x="7299" y="497" width="377" height="483" frameX="-8" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0011" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0012" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0013" x="7299" y="497" width="377" height="483" frameX="-8" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0014" x="7299" y="497" width="377" height="483" frameX="-8" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0015" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0016" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0017" x="7299" y="497" width="377" height="483" frameX="-8" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0018" x="7299" y="497" width="377" height="483" frameX="-8" frameY="0" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo LEFT MISS0019" x="6912" y="497" width="377" height="481" frameX="-8" frameY="-2" frameWidth="386" frameHeight="483"/>
+	<SubTexture name="Duxo RIGHT0000" x="7686" y="497" width="351" height="469" frameX="-6" frameY="-2" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0001" x="7686" y="497" width="351" height="469" frameX="-6" frameY="-2" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0002" x="0" y="991" width="352" height="471" frameX="0" frameY="0" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0003" x="0" y="991" width="352" height="471" frameX="0" frameY="0" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0004" x="362" y="991" width="352" height="471" frameX="0" frameY="0" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0005" x="362" y="991" width="352" height="471" frameX="0" frameY="0" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0006" x="362" y="991" width="352" height="471" frameX="0" frameY="0" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0007" x="362" y="991" width="352" height="471" frameX="0" frameY="0" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0008" x="362" y="991" width="352" height="471" frameX="0" frameY="0" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT0009" x="362" y="991" width="352" height="471" frameX="0" frameY="0" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT MISS0000" x="7686" y="497" width="351" height="469" frameX="-9" frameY="-32" frameWidth="357" frameHeight="471"/>
+	<SubTexture name="Duxo RIGHT MISS0001" x="724" y="991" width="357" height="503" frameX="0" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0002" x="724" y="991" width="357" height="503" frameX="0" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0003" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0004" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0005" x="1461" y="991" width="360" height="503" frameX="-3" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0006" x="1461" y="991" width="360" height="503" frameX="-3" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0007" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0008" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0009" x="1461" y="991" width="360" height="503" frameX="-3" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0010" x="1461" y="991" width="360" height="503" frameX="-3" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0011" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0012" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0013" x="1461" y="991" width="360" height="503" frameX="-3" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0014" x="1461" y="991" width="360" height="503" frameX="-3" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0015" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0016" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0017" x="1461" y="991" width="360" height="503" frameX="-3" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0018" x="1461" y="991" width="360" height="503" frameX="-3" frameY="0" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo RIGHT MISS0019" x="1091" y="991" width="360" height="500" frameX="-3" frameY="-3" frameWidth="363" frameHeight="503"/>
+	<SubTexture name="Duxo UP0000" x="1831" y="991" width="370" height="505"/>
+	<SubTexture name="Duxo UP0001" x="1831" y="991" width="370" height="505"/>
+	<SubTexture name="Duxo UP0002" x="2211" y="991" width="368" height="502" frameX="-2" frameY="-3" frameWidth="370" frameHeight="505"/>
+	<SubTexture name="Duxo UP0003" x="2211" y="991" width="368" height="502" frameX="-2" frameY="-3" frameWidth="370" frameHeight="505"/>
+	<SubTexture name="Duxo UP0004" x="2589" y="991" width="368" height="502" frameX="-2" frameY="-3" frameWidth="370" frameHeight="505"/>
+	<SubTexture name="Duxo UP0005" x="2589" y="991" width="368" height="502" frameX="-2" frameY="-3" frameWidth="370" frameHeight="505"/>
+	<SubTexture name="Duxo UP0006" x="2589" y="991" width="368" height="502" frameX="-2" frameY="-3" frameWidth="370" frameHeight="505"/>
+	<SubTexture name="Duxo UP0007" x="2589" y="991" width="368" height="502" frameX="-2" frameY="-3" frameWidth="370" frameHeight="505"/>
+	<SubTexture name="Duxo UP0008" x="2589" y="991" width="368" height="502" frameX="-2" frameY="-3" frameWidth="370" frameHeight="505"/>
+	<SubTexture name="Duxo UP0009" x="2589" y="991" width="368" height="502" frameX="-2" frameY="-3" frameWidth="370" frameHeight="505"/>
+	<SubTexture name="Duxo UP MISS0000" x="2967" y="991" width="370" height="505" frameX="-1" frameY="-12" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0001" x="3347" y="991" width="367" height="511" frameX="0" frameY="-6" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0002" x="3347" y="991" width="367" height="511" frameX="0" frameY="-6" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0003" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0004" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0005" x="4094" y="991" width="360" height="517" frameX="-4" frameY="0" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0006" x="4094" y="991" width="360" height="517" frameX="-4" frameY="0" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0007" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0008" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0009" x="4094" y="991" width="360" height="517" frameX="-4" frameY="0" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0010" x="4094" y="991" width="360" height="517" frameX="-4" frameY="0" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0011" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0012" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0013" x="4094" y="991" width="360" height="517" frameX="-4" frameY="0" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0014" x="4094" y="991" width="360" height="517" frameX="-4" frameY="0" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0015" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0016" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0017" x="4094" y="991" width="360" height="517" frameX="-4" frameY="0" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0018" x="4094" y="991" width="360" height="517" frameX="-4" frameY="0" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo UP MISS0019" x="3724" y="991" width="360" height="516" frameX="-4" frameY="-1" frameWidth="371" frameHeight="517"/>
+	<SubTexture name="Duxo dead comfirm0000" x="4464" y="991" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0001" x="4865" y="991" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0002" x="5266" y="991" width="391" height="508" frameX="0" frameY="0" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0003" x="5667" y="991" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0004" x="6068" y="991" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0005" x="6469" y="991" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0006" x="6870" y="991" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0007" x="7271" y="991" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0008" x="7672" y="991" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0009" x="0" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0010" x="401" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0011" x="802" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0012" x="1203" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0013" x="1604" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0014" x="2005" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0015" x="2406" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0016" x="2807" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0017" x="3208" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0018" x="3609" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0019" x="4010" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0020" x="4411" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0021" x="4812" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0022" x="5213" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0023" x="5213" y="1518" width="391" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0024" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0025" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0026" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0027" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0028" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0029" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0030" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0031" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0032" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead comfirm0033" x="5614" y="1518" width="392" height="484" frameX="0" frameY="-24" frameWidth="392" frameHeight="508"/>
+	<SubTexture name="Duxo dead loop0000" x="6016" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0001" x="6417" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0002" x="6417" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0003" x="6818" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0004" x="6818" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0005" x="7219" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0006" x="7219" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0007" x="7620" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0008" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0009" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0010" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0011" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0012" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0013" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0014" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0015" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0016" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0017" x="6016" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0018" x="6417" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0019" x="6417" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0020" x="6818" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0021" x="6818" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0022" x="7219" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0023" x="7219" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0024" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0025" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0026" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0027" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0028" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0029" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0030" x="7620" y="1518" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0031" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0032" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="Duxo dead loop0033" x="0" y="2012" width="391" height="484"/>
+	<SubTexture name="duxo dodge0000" x="401" y="2012" width="2161" height="845" frameX="0" frameY="-2" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0001" x="2572" y="2012" width="1993" height="859" frameX="-170" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0002" x="4575" y="2012" width="1823" height="871" frameX="-340" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0003" x="6408" y="2012" width="1653" height="883" frameX="-510" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0004" x="0" y="2905" width="1483" height="895" frameX="-680" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0005" x="1493" y="2905" width="1313" height="907" frameX="-850" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0006" x="2816" y="2905" width="1143" height="919" frameX="-1020" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0007" x="3969" y="2905" width="973" height="931" frameX="-1190" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0008" x="4952" y="2905" width="803" height="943" frameX="-1360" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0009" x="5765" y="2905" width="633" height="955" frameX="-1530" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0010" x="6408" y="2905" width="467" height="967" frameX="-1696" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0011" x="6885" y="2905" width="472" height="979" frameX="-1696" frameY="0" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0012" x="7367" y="2905" width="646" height="989" frameX="-1692" frameY="-2" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0013" x="0" y="3904" width="820" height="991" frameX="-1688" frameY="-12" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodge0014" x="830" y="3904" width="990" height="1003" frameX="-1688" frameY="-12" frameWidth="2678" frameHeight="1015"/>
+	<SubTexture name="duxo dodges fail0001" x="4001" y="3904" width="1995" height="857" frameX="-166" frameY="0" frameWidth="2166" frameHeight="962"/>
+	<SubTexture name="duxo dodges fail0002" x="6006" y="3904" width="1622" height="883" frameX="-539" frameY="0" frameWidth="2166" frameHeight="962"/>
+	<SubTexture name="duxo dodges fail0003" x="0" y="4917" width="1250" height="909" frameX="-911" frameY="0" frameWidth="2166" frameHeight="962"/>
+	<SubTexture name="duxo dodges fail0004" x="1260" y="4917" width="877" height="935" frameX="-1284" frameY="0" frameWidth="2166" frameHeight="962"/>
+	<SubTexture name="duxo dodges fail0005" x="2147" y="4917" width="510" height="956" frameX="-1656" frameY="-6" frameWidth="2166" frameHeight="962"/>
+	<SubTexture name="duxo dodges fail0006" x="2667" y="4917" width="510" height="956" frameX="-1656" frameY="-6" frameWidth="2166" frameHeight="962"/>
+	<SubTexture name="duxo dodges fail0007" x="3187" y="4917" width="510" height="956" frameX="-1656" frameY="-6" frameWidth="2166" frameHeight="962"/>
+	<SubTexture name="duxo dodges fail0008" x="3707" y="4917" width="510" height="956" frameX="-1656" frameY="-6" frameWidth="2166" frameHeight="962"/>
+</TextureAtlas>

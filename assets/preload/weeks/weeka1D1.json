@@ -1,0 +1,44 @@
+{
+	"storyName": "El loco del Colchón",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ya pero",
+			"icon-locochon",
+			[
+				80,
+				0,
+				75
+			]
+		],
+		[
+			"HAY UNA ESCENA",
+			"icon-locochon",
+			[
+				80,
+				0,
+				75
+			]
+		],
+		[
+			"Your rickrolled",
+			"icon-locochon",
+			[
+				80,
+				0,
+				75
+			]
+		]
+	],
+	"weekName": "Week 1 FNF X Duxo"
+}

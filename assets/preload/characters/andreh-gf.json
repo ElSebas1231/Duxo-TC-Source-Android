@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Andreh Corruptado"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Andreh Corruptado"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/andrehCorruptado",
+	"position": [
+		80,
+		200
+	],
+	"healthicon": "icon-vacaloca",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		30,
+		174
+	],
+	"camera_position": [
+		-30,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

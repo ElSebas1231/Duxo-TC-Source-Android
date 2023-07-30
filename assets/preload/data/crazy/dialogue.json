@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "AHHHHH ¡¿SÁBES QUÉ?!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "¡ANDREH! ¡¡¡VOY A HACERLO YO SOLO!!!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.035
+		},
+		{
+			"expression": "shocked",
+			"text": "¡¡¡ESTOY HARTO DE QUE NOS MIRE CON ESA SONRISA DE IDIOTA!!!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.04
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Esta sonrisa?"
+		},
+		{
+			"expression": "talk",
+			"text": "¿Qué pasa? Te noto más 'crazy' de lo normal.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Incluso te quieres hacer el payaso antes de morir...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.04
+		}
+	]
+}

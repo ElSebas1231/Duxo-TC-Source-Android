@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TOMMY IDLE"
+		},
+		{
+			"offsets": [
+				-98,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TOMMY LEFT"
+		},
+		{
+			"offsets": [
+				-180,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TOMMY RIGHT"
+		},
+		{
+			"offsets": [
+				-188,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TOMMY DOWN"
+		},
+		{
+			"offsets": [
+				-173,
+				-94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TOMMY UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tommy",
+	"position": [
+		-280,
+		-300
+	],
+	"healthicon": "icon-tomy",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		69,
+		167
+	],
+	"camera_position": [
+		170,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

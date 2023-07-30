@@ -1,0 +1,44 @@
+{
+	"storyName": "¿Dónde Está Aquino? Nomamen",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "weekaa5D2",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"spacecat",
+			"nimu",
+			[
+				155,
+				112,
+				197
+			]
+		],
+		[
+			"constellations",
+			"nimu",
+			[
+				155,
+				112,
+				197
+			]
+		],
+		[
+			"Sadcat",
+			"nimu",
+			[
+				155,
+				112,
+				197
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 13 FNF X Duxo"
+}

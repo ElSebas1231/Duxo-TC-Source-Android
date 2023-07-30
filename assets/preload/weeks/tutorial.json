@@ -1,0 +1,32 @@
+{
+	"storyName": "All the Credits to Cótiles",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"wimpy",
+			"aquino",
+			[
+				241,
+				130,
+				59
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial FNF X DUXO",
+	"hiddenUntilUnlocked": false
+}

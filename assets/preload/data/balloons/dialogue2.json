@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "clownso 1",
+			"text": "Vaya vaya, parece que tienes talento muchacho.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "clownso"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Muchas gracias, no lo haces mal tampoco.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "clownso 2",
+			"text": "Aunque tu altura no te ayuda mucho JAJAJ",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "clownso"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "¿Porqué te metes con mi altura? Yo no te eh hecho nada...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "clownso 4",
+			"text": "Es divertido meterse con las desgracias ajenas, aunque uno debe estar preparado para que nunca le pase a si mismo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.115,
+			"portrait": "clownso"
+		},
+		{
+			"expression": "clownso 3",
+			"text": "Esto puede ser aun más divertido amigo, no importa si sea solo para mí.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.125,
+			"portrait": "clownso"
+		},
+		{
+			"expression": "clownso 3",
+			"text": "Incluso si yo soy el payaso, aquí la broma eres tu enano.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.095,
+			"portrait": "clownso"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "Eres una pesadilla andante de verdad...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "clownso 3",
+			"text": "Oh pobrecito, tu no sabes que es una pesadilla.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "clownso"
+		},
+		{
+			"expression": "clownso 3",
+			"text": "Y de ser así, créeme...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "clownso"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "clownso",
+			"boxState": "angry",
+			"expression": "clownso 2",
+			"text": "¡Yo soy mucho PEOR de lo que tu crees! ¡¡¡ENANO DE PACOTILLA!!!"
+		}
+	]
+}

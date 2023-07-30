@@ -1,0 +1,152 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-162
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing_Left_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-145
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing_Right_Flip",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-201
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing_Down_Flip",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-101
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing_Up_Flip",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-195
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down_Miss_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-167
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left_Miss_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-95
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up_Miss_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-148
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right_Miss_Flip",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DuxoWHENFlip",
+	"position": [
+		100,
+		250
+	],
+	"healthicon": "icon-duxo",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		0,
+		255
+	],
+	"camera_position": [
+		200,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

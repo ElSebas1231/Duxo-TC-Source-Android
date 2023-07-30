@@ -1,0 +1,44 @@
+{
+	"storyName": "Despedir a creisi *click*",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "weekab1D3",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"purple",
+			"creisi",
+			[
+				95,
+				69,
+				112
+			]
+		],
+		[
+			"acido",
+			"creisi",
+			[
+				95,
+				69,
+				112
+			]
+		],
+		[
+			"esporas",
+			"creisi",
+			[
+				95,
+				69,
+				112
+			]
+		]
+	],
+	"weekName": "Week 14 FNF X Duxo"
+}

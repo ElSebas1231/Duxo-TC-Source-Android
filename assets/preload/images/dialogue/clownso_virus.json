@@ -1,0 +1,37 @@
+{
+	"position": [
+		10,
+		-80
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "clownso_glitch",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "BFTalk",
+			"loop_name": "bftalkloop"
+		},
+		{
+			"loop_offsets": [
+				714,
+				231
+			],
+			"anim": "clownso_glitch_takecare",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "are_you_here_for_clues?",
+			"idle_name": "JAJAJAJAJAJA_tonto"
+		}
+	]
+}

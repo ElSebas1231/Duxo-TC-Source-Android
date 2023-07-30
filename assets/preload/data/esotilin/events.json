@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "side",
+		"player1": "bf-pixel",
+		"player2": "aquino4",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"La cumbia",
+						"del tilin"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "esotilin"
+	}
+}

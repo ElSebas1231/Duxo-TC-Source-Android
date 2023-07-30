@@ -1,0 +1,44 @@
+{
+	"storyName": "Palito de Pescado",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeka2D1",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"StickFish",
+			"icon-c3jo",
+			[
+				255,
+				123,
+				24
+			]
+		],
+		[
+			"Cupface",
+			"icon-c3jo",
+			[
+				255,
+				123,
+				24
+			]
+		],
+		[
+			"Final Round",
+			"icon-c3jo",
+			[
+				255,
+				123,
+				24
+			]
+		]
+	],
+	"weekName": "Week 3 FNF X Duxo"
+}

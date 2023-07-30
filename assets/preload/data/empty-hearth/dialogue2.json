@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "desanimadoAquino",
+			"text": "Duxo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "No te sientas mal...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "felizAquino",
+			"text": "Nos veremos pronto, lo prometo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"sound": ""
+		}
+	]
+}

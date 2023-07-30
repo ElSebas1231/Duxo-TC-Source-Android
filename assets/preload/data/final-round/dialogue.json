@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "talkAquino",
+			"text": "Oigan, no es por arruinar el momento pero...",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "Esta tendrá que ser la última canción...",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "El siguiente metro es el que nos va a dejar cerca del mall.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Hey es cierto, el mall...",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Casi me olvidaba de eso.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "c3jo feliz",
+			"text": "Oigan chicos, este...",
+			"boxState": "normal",
+			"portrait": "c3jo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "¿Tienen planes o algo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Sip, quedamos de vernos con Locochón en el mall.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "¿No quieres venir?",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "c3jo normal",
+			"text": "Nah, yo ya tengo otras cosas que hacer.",
+			"boxState": "normal",
+			"portrait": "c3jo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Oh, en ese caso...",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Terminemos con esto de una vez.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "c3jo feliz",
+			"text": "Muy bien.",
+			"boxState": "normal",
+			"portrait": "c3jo",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

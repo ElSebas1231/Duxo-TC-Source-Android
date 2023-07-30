@@ -1,0 +1,44 @@
+{
+	"storyName": "Limosina Gigante",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "weekab3D3",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Shiny Star",
+			"lau",
+			[
+				126,
+				129,
+				165
+			]
+		],
+		[
+			"Gamer Passion",
+			"lau",
+			[
+				126,
+				129,
+				165
+			]
+		],
+		[
+			"QUEEN",
+			"lau",
+			[
+				126,
+				129,
+				165
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 16 FNF X Duxo"
+}

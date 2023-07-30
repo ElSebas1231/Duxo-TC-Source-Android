@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Duxo LEFT sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-47
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Duxo DOWN sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Duxo UP sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Duxo RIGHT sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Duxo LEFT MISS sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-23
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Duxo DOWN MISS sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				38
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Duxo UP MISS sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				24
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Duxo RIGHT MISS sad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Duxo IDL dance sad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duxo_assets_sad",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-duxo",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

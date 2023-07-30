@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "¡Amigo eso estuvo loco!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nat"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Lo sé, ¡Yo soy el mejor de aquí!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Uy, noto algo de ego alto en alguien...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nat"
+		},
+		{
+			"expression": "excited",
+			"text": "Eso me agrada.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nat"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "¿Una más o miedo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "excited",
+			"text": "¿Una más? Podría estar aquí toda la vida si quisiera...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nat"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Si, pero yo no.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "pissed",
+			"text": "Piensas en correr, ¿no es asi?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nat"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Basicamente, si.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Está bien. Si sales ganando, te daré por lo menos...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nat"
+		},
+		{
+			"expression": "excited",
+			"text": "2 minutos para correr. ¿Trato?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nat"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "¡Trato!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

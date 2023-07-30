@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "Leave",
+			"fps": 24,
+			"name": "Kima Spawn Full",
+			"indices": [
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "Spawn",
+			"fps": 24,
+			"name": "Kima Spawn Full",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 20,
+			"name": "Kima Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kima Spawn Full",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kima_Assets",
+	"position": [
+		130,
+		210
+	],
+	"healthicon": "icon-minovia",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				-65,
+				-1
+			],
+			"anim": "nata",
+			"loop_offsets": [
+				-40,
+				-1
+			],
+			"idle_name": "natalan normal 1",
+			"loop_name": "natalan normal 1"
+		},
+		{
+			"idle_offsets": [
+				-60,
+				5
+			],
+			"anim": "nata 2",
+			"loop_offsets": [
+				-40,
+				0
+			],
+			"idle_name": "natalan normal 2",
+			"loop_name": "natalan normal 2"
+		},
+		{
+			"idle_offsets": [
+				-65,
+				0
+			],
+			"anim": "nata feliz",
+			"loop_offsets": [
+				-40,
+				-10
+			],
+			"idle_name": "natalan feliz",
+			"loop_name": "natalan feliz"
+		},
+		{
+			"idle_offsets": [
+				-64,
+				-1
+			],
+			"anim": "nata nojao",
+			"loop_offsets": [
+				-40,
+				-10
+			],
+			"idle_name": "natalan enojado",
+			"loop_name": "natalan enojado"
+		},
+		{
+			"idle_offsets": [
+				-64,
+				-1
+			],
+			"anim": "nata confuso",
+			"loop_offsets": [
+				-40,
+				0
+			],
+			"idle_name": "natalan miedo",
+			"loop_name": "natalan miedo"
+		}
+	],
+	"image": "natalan"
+}

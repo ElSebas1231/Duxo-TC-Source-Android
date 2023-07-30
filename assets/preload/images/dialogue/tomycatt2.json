@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		60,
+		-30
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tomycatt 2 confundido",
+			"anim": "tomycatt 2 confundido",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tomycatt 2 enojado",
+			"anim": "tomycatt 2 enojado",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tomycatt 2 feliz",
+			"anim": "tomycatt 2 feliz",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tomycatt 2 nervioso",
+			"anim": "tomycatt 2 nervioso",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				3
+			],
+			"idle_name": "tomycatt 2 normal",
+			"anim": "tomycatt 2 normal",
+			"loop_offsets": [
+				0,
+				3
+			]
+		}
+	],
+	"image": "tomycatt 2"
+}

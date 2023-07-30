@@ -1,0 +1,63 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "aquino_corrupted",
+	"animations": [
+		{
+			"loop_offsets": [
+				-60,
+				-20
+			],
+			"anim": "aquino1",
+			"idle_offsets": [
+				-60,
+				-20
+			],
+			"loop_name": "aquino corrupted 1",
+			"idle_name": "aquino corrupted 1"
+		},
+		{
+			"loop_offsets": [
+				-60,
+				-20
+			],
+			"anim": "aquino2",
+			"idle_offsets": [
+				-60,
+				-20
+			],
+			"loop_name": "aquino corrupted 2",
+			"idle_name": "aquino corrupted 2"
+		},
+		{
+			"loop_offsets": [
+				-60,
+				-10
+			],
+			"anim": "aquino3",
+			"idle_offsets": [
+				-60,
+				-10
+			],
+			"loop_name": "aquino corrupted 3",
+			"idle_name": "aquino corrupted 3"
+		},
+		{
+			"loop_offsets": [
+				-60,
+				-10
+			],
+			"anim": "aquino4",
+			"idle_offsets": [
+				-60,
+				-10
+			],
+			"loop_name": "aquino corrupted 4",
+			"idle_name": "aquino corrupted 4"
+		}
+	]
+}

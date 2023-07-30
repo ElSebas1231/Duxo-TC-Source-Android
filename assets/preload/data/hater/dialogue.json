@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Hace tiempo que no nos vemos Duxo.",
+			"boxState": "normal",
+			"portrait": "lau 2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Y si la verdad.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Además, el morado te queda bien.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Gracias.",
+			"boxState": "normal",
+			"portrait": "lau 2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Por lo que veo no estás asustado.",
+			"boxState": "normal",
+			"portrait": "lau 2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "¿Algo qué quieras contar?",
+			"boxState": "normal",
+			"portrait": "lau 2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno... No tengo mucho que hacer y realmente nada que perder...",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Entonces, solo estoy viviendo y disfrutando lo poco que me queda.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Eso suena divertido.",
+			"boxState": "normal",
+			"portrait": "lau 2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "¿Quieres que te lleve a algún lugar?",
+			"boxState": "normal",
+			"portrait": "lau 2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Wow... ¿De verdad? ¿Así de fácil?",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Si es así...",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Ciertamente me gustaría ir al mall a buscar algo.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Muy bien, entonces...",
+			"boxState": "normal",
+			"portrait": "lau 2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "Tengamos una experiencia músical única, en un mundo que está llegando a su fin.",
+			"boxState": "normal",
+			"portrait": "lau 2",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

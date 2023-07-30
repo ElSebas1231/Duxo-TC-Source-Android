@@ -1,0 +1,7 @@
+Change Note Position
+
+Value 1: Note (0-7)
+Value 2: x value, y value, rotation, opacity (0-1), duration
+
+If you want to force middlescroll move the x -315
+If you want to swap enemy with player it's -635

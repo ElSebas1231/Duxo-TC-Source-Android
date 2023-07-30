@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-143,
+				-470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-119,
+				-524
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-126,
+				-480
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-129,
+				-475
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-140,
+				-470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kan-kan_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-lata",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		200,
+		200
+	],
+	"camera_position": [
+		60,
+		600
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

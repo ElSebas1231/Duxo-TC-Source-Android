@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-16,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MAU IDL0"
+		},
+		{
+			"offsets": [
+				17,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MAU LEFT0"
+		},
+		{
+			"offsets": [
+				-26,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MAU DOWN0"
+		},
+		{
+			"offsets": [
+				9,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MAU UP0"
+		},
+		{
+			"offsets": [
+				-97,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MAU RIGHT0"
+		},
+		{
+			"offsets": [
+				27,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MAU LEFT miss"
+		},
+		{
+			"offsets": [
+				-17,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MAU DOWN miss"
+		},
+		{
+			"offsets": [
+				11,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MAU UP miss"
+		},
+		{
+			"offsets": [
+				-93,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MAU RIGHT miss"
+		},
+		{
+			"offsets": [
+				7,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "MAU DOWN"
+		},
+		{
+			"offsets": [
+				23,
+				28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "MAU UP miss"
+		},
+		{
+			"offsets": [
+				26,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "MAU UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mauwaa_assets",
+	"position": [
+		120,
+		190
+	],
+	"healthicon": "icon-mau",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		80,
+		255
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

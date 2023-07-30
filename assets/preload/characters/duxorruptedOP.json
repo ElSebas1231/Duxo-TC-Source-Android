@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				369,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				147,
+				213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"offsets": [
+				174,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				193,
+				229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"offsets": [
+				129,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"offsets": [
+				159,
+				245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"offsets": [
+				95,
+				216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				186
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				227,
+				194
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Duxo_corrupted",
+	"position": [
+		110,
+		470
+	],
+	"healthicon": "icon-corruptedduxo",
+	"flip_x": true,
+	"healthbar_colors": [
+		211,
+		37,
+		223
+	],
+	"camera_position": [
+		-300,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

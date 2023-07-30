@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo nojao",
+			"text": "¿Qué?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "¡¿Otra vez tú?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Uff... Si que te pegó feo esta cosa.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Tan.. encantador como siempre mi querido Duxo..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "pissed",
+			"text": "No te lo tomes tan mal rojito...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "pissed",
+			"text": "Pero creo que me hace falta tanta cordura, que ahora mismo no se si estoy vivo o muerto.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "pissed",
+			"text": "(Dios... No sé para qué hago esto...)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "talk",
+			"text": "Bien hecho Duxo, Lo lograste... Esta pesadilla está por acabar...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "No. La pesadilla acabará cuando encuentre a Aquino.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "pissed",
+			"text": "¿Pero que no estaba muerto hace cuatro cuadras?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "¡¡¡PORQUÉ TODOS YA HAN VISTO A AQUINO PERO MENOS YO!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "excited",
+			"text": "Quizás no sabes buscar...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "shocked",
+			"text": "O quizás ustedes me han estado distrayendo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Puede ser o tal vez no...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "talk",
+			"text": "En fin. Hagamos un trato.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "talk",
+			"text": "Si logras ganarme volverás a tu dimensión, creo que ya fue suficiente paralelo para tí...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¡AMIGO, ENTIENDELO!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¡EL LUGAR ME GUSTA Y TODO!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "angry",
+			"expression": "duxo nervioso",
+			"text": "¡PERO YO SOLO QUIERO VER A AQUINO!"
+		},
+		{
+			"expression": "shocked",
+			"text": "¡Y YO NO SOY UN MAGO!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "shocked",
+			"text": "¡NO PUEDO REVIVIR A LOS MUERTOS!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Y si lo también lo envían al mundo normal conmigo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "excited",
+			"text": "Bueno... Podría ser, no se sabe si estará vivo o muerto. O si sea normal...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "yt"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno, no pierdo nada intentándolo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "¡Comencemos de una vez!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

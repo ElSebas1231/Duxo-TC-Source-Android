@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "talkDuxo",
+			"text": "Ya me acostumbre a esto la verdad.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "tomycatt feliz",
+			"text": "Te dije que sería divertido.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "¡Chicos miren eso!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"boxState": "normal",
+			"expression": "felizAquino",
+			"text": "¡¡Ya se ve el mall!"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Hey, Locochón nos debe estar esperando",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "tomycatt feliz",
+			"text": "¿Les parece si hacemos una batalla de duos con Locochón?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "No suena a una mala idea...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "¡La cosa es que Aquino no quiere cantar!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Exacto, prefiero ver solamente.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Bueno en ese caso...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Ustedes dos contra mí. ¿Qué dices?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "tomycatt normal",
+			"text": "Por mi no hay problema.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Perfecto.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

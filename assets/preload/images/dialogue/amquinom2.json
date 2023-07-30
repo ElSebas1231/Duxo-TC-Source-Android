@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				51,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				111,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				44,
+				96
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				15,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				120,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Aquino_Corrupto2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "aquino6",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		95,
+		240
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

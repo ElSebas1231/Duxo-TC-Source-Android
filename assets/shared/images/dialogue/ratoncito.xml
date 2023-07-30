@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ratoncito.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ratoncito confundido0000" x="0" y="0" width="343" height="392"/>
+	<SubTexture name="ratoncito enojado0000" x="343" y="0" width="325" height="394"/>
+	<SubTexture name="ratoncito feliz0000" x="668" y="0" width="344" height="393"/>
+	<SubTexture name="ratoncito normal0000" x="0" y="394" width="325" height="393"/>
+	<SubTexture name="ratoncito triste0000" x="325" y="394" width="329" height="393"/>
+</TextureAtlas>

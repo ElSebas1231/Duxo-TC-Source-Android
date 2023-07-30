@@ -1,0 +1,449 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "week17",
+		"player1": "bf-nat",
+		"player2": "natalan",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro2",
+						"Sonando:",
+						"HELLMOON\nDe: Laleritose"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				16083.3333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"nigga"
+					]
+				]
+			],
+			[
+				16166.6666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"niggasans"
+					]
+				]
+			],
+			[
+				37250,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				37333.3333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-nat"
+					]
+				]
+			],
+			[
+				37416.6666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"natalan"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"0",
+						"nigga"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				48083.3333333334,
+				[
+					[
+						"Change Character",
+						"1",
+						"niggasans"
+					]
+				]
+			],
+			[
+				58666.6666666667,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				58750,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-nat"
+					]
+				]
+			],
+			[
+				58833.3333333334,
+				[
+					[
+						"Change Character",
+						"1",
+						"natalan"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				82583.3333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"niggasans"
+					]
+				]
+			],
+			[
+				82666.6666666667,
+				[
+					[
+						"Change Character",
+						"0",
+						"nigga"
+					]
+				]
+			],
+			[
+				90666.6666666666,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-nat"
+					]
+				]
+			],
+			[
+				90750,
+				[
+					[
+						"Change Character",
+						"1",
+						"natalan"
+					]
+				]
+			],
+			[
+				90833.3333333333,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				92000,
+				[
+					[
+						"Change Character",
+						"1",
+						"niggasans"
+					]
+				]
+			],
+			[
+				92083.3333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"nigga"
+					]
+				]
+			],
+			[
+				92166.6666666666,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				93333.3333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-nat"
+					]
+				]
+			],
+			[
+				93416.6666666666,
+				[
+					[
+						"Change Character",
+						"1",
+						"natalan"
+					]
+				]
+			],
+			[
+				93500,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				94666.6666666666,
+				[
+					[
+						"Change Character",
+						"1",
+						"niggasans"
+					]
+				]
+			],
+			[
+				94749.9999999999,
+				[
+					[
+						"Change Character",
+						"0",
+						"nigga"
+					]
+				]
+			],
+			[
+				94833.3333333333,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-nat"
+					]
+				]
+			],
+			[
+				96083.3333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"natalan"
+					]
+				]
+			],
+			[
+				96166.6666666666,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				97333.3333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"nigga"
+					]
+				]
+			],
+			[
+				97416.6666666666,
+				[
+					[
+						"Change Character",
+						"1",
+						"niggasans"
+					]
+				]
+			],
+			[
+				97499.9999999999,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				98666.6666666666,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-nat"
+					]
+				]
+			],
+			[
+				98749.9999999999,
+				[
+					[
+						"Change Character",
+						"1",
+						"natalan"
+					]
+				]
+			],
+			[
+				98833.3333333333,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				99999.9999999999,
+				[
+					[
+						"Change Character",
+						"0",
+						"nigga"
+					]
+				]
+			],
+			[
+				100083.333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"niggasans"
+					]
+				]
+			],
+			[
+				100166.666666667,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				101250,
+				[
+					[
+						"Change Character",
+						"1",
+						"natalan"
+					]
+				]
+			],
+			[
+				101333.333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-nat"
+					]
+				]
+			],
+			[
+				101333.333333333,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "hellmoon"
+	}
+}

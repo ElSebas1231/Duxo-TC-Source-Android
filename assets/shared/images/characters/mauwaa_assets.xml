@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mauwaa_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MAU DOWN0000" x="714" y="0" width="349" height="473" frameX="-3" frameY="-7" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN0001" x="714" y="0" width="349" height="473" frameX="-3" frameY="-7" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN0002" x="0" y="0" width="347" height="480" frameX="0" frameY="0" frameWidth="352" frameHeight="480"/>
+	<SubTexture name="MAU DOWN0003" x="0" y="0" width="347" height="480" frameX="0" frameY="0" frameWidth="352" frameHeight="480"/>
+	<SubTexture name="MAU DOWN0004" x="357" y="0" width="347" height="480" frameX="0" frameY="0" frameWidth="352" frameHeight="480"/>
+	<SubTexture name="MAU DOWN0005" x="357" y="0" width="347" height="480" frameX="0" frameY="0" frameWidth="352" frameHeight="480"/>
+	<SubTexture name="MAU DOWN0006" x="357" y="0" width="347" height="480" frameX="0" frameY="0" frameWidth="352" frameHeight="480"/>
+	<SubTexture name="MAU DOWN0007" x="357" y="0" width="347" height="480" frameX="0" frameY="0" frameWidth="352" frameHeight="480"/>
+	<SubTexture name="MAU DOWN0008" x="357" y="0" width="347" height="480" frameX="0" frameY="0" frameWidth="352" frameHeight="480"/>
+	<SubTexture name="MAU DOWN0009" x="357" y="0" width="347" height="480" frameX="0" frameY="0" frameWidth="352" frameHeight="480"/>
+	<SubTexture name="MAU DOWN miss0000" x="714" y="0" width="349" height="473" frameX="-4" frameY="-11" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0001" x="1073" y="0" width="359" height="478" frameX="0" frameY="-7" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0002" x="1073" y="0" width="359" height="478" frameX="0" frameY="-7" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0003" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0004" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0005" x="1803" y="0" width="351" height="484" frameX="-4" frameY="-1" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0006" x="1803" y="0" width="351" height="484" frameX="-4" frameY="-1" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0007" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0008" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0009" x="1803" y="0" width="351" height="484" frameX="-4" frameY="-1" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0010" x="1803" y="0" width="351" height="484" frameX="-4" frameY="-1" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0011" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0012" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0013" x="1803" y="0" width="351" height="484" frameX="-4" frameY="-1" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0014" x="1803" y="0" width="351" height="484" frameX="-4" frameY="-1" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0015" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0016" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0017" x="1803" y="0" width="351" height="484" frameX="-4" frameY="-1" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0018" x="1803" y="0" width="351" height="484" frameX="-4" frameY="-1" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU DOWN miss0019" x="1442" y="0" width="351" height="485" frameX="-4" frameY="0" frameWidth="359" frameHeight="485"/>
+	<SubTexture name="MAU IDL0000" x="2164" y="0" width="349" height="591" frameX="0" frameY="-8" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0001" x="2164" y="0" width="349" height="591" frameX="0" frameY="-8" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0002" x="2523" y="0" width="346" height="597" frameX="-1" frameY="-2" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0003" x="2523" y="0" width="346" height="597" frameX="-1" frameY="-2" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0004" x="2879" y="0" width="342" height="598" frameX="-3" frameY="-1" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0005" x="2879" y="0" width="342" height="598" frameX="-3" frameY="-1" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0006" x="3231" y="0" width="341" height="599" frameX="-4" frameY="0" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0007" x="3231" y="0" width="341" height="599" frameX="-4" frameY="0" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0008" x="3582" y="0" width="342" height="598" frameX="-3" frameY="-1" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0009" x="3582" y="0" width="342" height="598" frameX="-3" frameY="-1" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0010" x="3582" y="0" width="342" height="598" frameX="-3" frameY="-1" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0011" x="3582" y="0" width="342" height="598" frameX="-3" frameY="-1" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0012" x="3582" y="0" width="342" height="598" frameX="-3" frameY="-1" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU IDL0013" x="3582" y="0" width="342" height="598" frameX="-3" frameY="-1" frameWidth="349" frameHeight="599"/>
+	<SubTexture name="MAU LEFT0000" x="0" y="609" width="380" height="561" frameX="0" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0001" x="0" y="609" width="380" height="561" frameX="0" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0002" x="390" y="609" width="374" height="561" frameX="-10" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0003" x="390" y="609" width="374" height="561" frameX="-10" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0004" x="774" y="609" width="374" height="561" frameX="-10" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0005" x="774" y="609" width="374" height="561" frameX="-10" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0006" x="774" y="609" width="374" height="561" frameX="-10" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0007" x="774" y="609" width="374" height="561" frameX="-10" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0008" x="774" y="609" width="374" height="561" frameX="-10" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT0009" x="774" y="609" width="374" height="561" frameX="-10" frameY="0" frameWidth="384" frameHeight="561"/>
+	<SubTexture name="MAU LEFT miss0000" x="1158" y="609" width="380" height="561" frameX="-12" frameY="-18" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0001" x="1548" y="609" width="393" height="575" frameX="0" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0002" x="1548" y="609" width="393" height="575" frameX="0" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0003" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0004" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0005" x="2352" y="609" width="391" height="579" frameX="-5" frameY="0" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0006" x="2352" y="609" width="391" height="579" frameX="-5" frameY="0" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0007" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0008" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0009" x="2352" y="609" width="391" height="579" frameX="-5" frameY="0" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0010" x="2352" y="609" width="391" height="579" frameX="-5" frameY="0" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0011" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0012" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0013" x="2352" y="609" width="391" height="579" frameX="-5" frameY="0" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0014" x="2352" y="609" width="391" height="579" frameX="-5" frameY="0" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0015" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0016" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0017" x="2352" y="609" width="391" height="579" frameX="-5" frameY="0" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0018" x="2352" y="609" width="391" height="579" frameX="-5" frameY="0" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU LEFT miss0019" x="1951" y="609" width="391" height="575" frameX="-5" frameY="-4" frameWidth="396" frameHeight="579"/>
+	<SubTexture name="MAU RIGHT0000" x="2753" y="609" width="408" height="543" frameX="0" frameY="-3" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT0001" x="2753" y="609" width="408" height="543" frameX="0" frameY="-3" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT0002" x="3171" y="609" width="393" height="546" frameX="0" frameY="0" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT0003" x="3171" y="609" width="393" height="546" frameX="0" frameY="0" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT0004" x="3574" y="609" width="393" height="546" frameX="0" frameY="0" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT0005" x="3574" y="609" width="393" height="546" frameX="0" frameY="0" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT0006" x="3574" y="609" width="393" height="546" frameX="0" frameY="0" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT0007" x="3574" y="609" width="393" height="546" frameX="0" frameY="0" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT0008" x="3574" y="609" width="393" height="546" frameX="0" frameY="0" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT miss0000" x="2753" y="609" width="408" height="543" frameX="-1" frameY="0" frameWidth="408" frameHeight="546"/>
+	<SubTexture name="MAU RIGHT miss0001" x="0" y="1198" width="423" height="545" frameX="-1" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0002" x="0" y="1198" width="423" height="545" frameX="-1" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0003" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0004" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0005" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0006" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0007" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0008" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0009" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0010" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0011" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0012" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0013" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0014" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0015" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0016" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0017" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0018" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU RIGHT miss0019" x="433" y="1198" width="413" height="545" frameX="0" frameY="0" frameWidth="424" frameHeight="545"/>
+	<SubTexture name="MAU UP0000" x="856" y="1198" width="415" height="611" frameX="-8" frameY="0" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0001" x="856" y="1198" width="415" height="611" frameX="-8" frameY="0" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0002" x="1281" y="1198" width="429" height="606" frameX="0" frameY="-5" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0003" x="1281" y="1198" width="429" height="606" frameX="0" frameY="-5" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0004" x="1720" y="1198" width="429" height="606" frameX="0" frameY="-5" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0005" x="1720" y="1198" width="429" height="606" frameX="0" frameY="-5" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0006" x="1720" y="1198" width="429" height="606" frameX="0" frameY="-5" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0007" x="1720" y="1198" width="429" height="606" frameX="0" frameY="-5" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0008" x="1720" y="1198" width="429" height="606" frameX="0" frameY="-5" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP0009" x="1720" y="1198" width="429" height="606" frameX="0" frameY="-5" frameWidth="429" frameHeight="611"/>
+	<SubTexture name="MAU UP miss0000" x="2159" y="1198" width="415" height="611" frameX="-3" frameY="-28" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0001" x="2584" y="1198" width="419" height="643"/>
+	<SubTexture name="MAU UP miss0002" x="2584" y="1198" width="419" height="643"/>
+	<SubTexture name="MAU UP miss0003" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0004" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0005" x="3442" y="1198" width="419" height="637" frameX="0" frameY="-6" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0006" x="3442" y="1198" width="419" height="637" frameX="0" frameY="-6" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0007" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0008" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0009" x="3442" y="1198" width="419" height="637" frameX="0" frameY="-6" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0010" x="3442" y="1198" width="419" height="637" frameX="0" frameY="-6" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0011" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0012" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0013" x="3442" y="1198" width="419" height="637" frameX="0" frameY="-6" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0014" x="3442" y="1198" width="419" height="637" frameX="0" frameY="-6" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0015" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0016" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0017" x="3442" y="1198" width="419" height="637" frameX="0" frameY="-6" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0018" x="3442" y="1198" width="419" height="637" frameX="0" frameY="-6" frameWidth="419" frameHeight="643"/>
+	<SubTexture name="MAU UP miss0019" x="3013" y="1198" width="419" height="635" frameX="0" frameY="-8" frameWidth="419" frameHeight="643"/>
+</TextureAtlas>

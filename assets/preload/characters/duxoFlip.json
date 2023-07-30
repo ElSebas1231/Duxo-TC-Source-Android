@@ -1,0 +1,195 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				446,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Duxo IDL dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				444,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Duxo DOWN",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				466,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Duxo UP",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				453,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Duxo DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				463,
+				37
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Duxo UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				446,
+				22
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Duxo dead comfirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				445,
+				-2
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Duxo dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				459,
+				4
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Duxo DIES",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				456,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Duxo RIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				442,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Duxo LEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				452,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Duxo RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				446,
+				4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Duxo LEFT MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duxo_assets",
+	"position": [
+		-190,
+		350
+	],
+	"healthicon": "icon-duxo",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		255
+	],
+	"camera_position": [
+		350,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

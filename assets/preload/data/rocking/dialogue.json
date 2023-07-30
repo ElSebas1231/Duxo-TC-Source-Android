@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "miedo",
+			"text": "*cof* *cof*",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "soaring",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¿Todo bien?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Si... Esa canción hizo que me sienta mejor...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "soaring",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "¿Ves? ¡Solo debes distraerte un poco!",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Eso debe ser...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "soaring",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Te parece si cantamos otra?"
+		},
+		{
+			"expression": "talk",
+			"text": "No veo ningún problema.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		}
+	]
+}

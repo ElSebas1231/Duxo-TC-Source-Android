@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tomycatt 2.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tomycatt 2 confundido0000" x="0" y="0" width="490" height="618"/>
+	<SubTexture name="tomycatt 2 enojado0000" x="490" y="0" width="490" height="613"/>
+	<SubTexture name="tomycatt 2 feliz0000" x="980" y="0" width="516" height="612"/>
+	<SubTexture name="tomycatt 2 nervioso0000" x="1496" y="0" width="485" height="610"/>
+	<SubTexture name="tomycatt 2 normal0000" x="0" y="618" width="534" height="613"/>
+</TextureAtlas>

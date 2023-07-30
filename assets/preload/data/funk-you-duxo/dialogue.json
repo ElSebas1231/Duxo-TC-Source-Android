@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxohabla",
+			"text": "¿Eso es todo lo que tienen chicos?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "tomycatt 2 enojado",
+			"text": "Eso solo fue el comienzo Duxo, aún tenemos más que dar.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt2"
+		},
+		{
+			"expression": "locochon enojao",
+			"text": "¿Que no te cansas duxo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "locochon miedoso",
+			"text": "Llevas 2 días cantando sin parar.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Cansarse es de gente débil.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "O también de gente normal...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "locochon serio",
+			"text": "Concuerdo con Aquino...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "locochon enojao",
+			"text": "Duxo, estás bien loquito",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Piedras hablan beep bop.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "locochon confundido",
+			"text": "¿Qué?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		}
+	]
+}

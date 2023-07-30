@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo feliz",
+			"text": "Nada mal...",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "¡Pero podría ser mejor!",
+			"boxState": "angry",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "creisi normal",
+			"text": "No. no creo.",
+			"boxState": "normal",
+			"portrait": "creisi",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "andreh happy",
+			"text": "¡Yo creo que todos lo hicimos bien!",
+			"boxState": "normal",
+			"portrait": "andreh",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Opinaría, pero... Solo estoy de espectador",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Seguro que no quieres cantar también?",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talkAquino",
+			"text": "No gracias, prefiero ver como cantan por horas aquí sentado.",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Ya será en otra ocasión.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Te vas a morir.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Ese es el plan.",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "creisi normal",
+			"text": "Después de esto...",
+			"boxState": "normal",
+			"portrait": "creisi",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "creisi normal",
+			"text": "Los hecho de la casa. ¿Qué opinas Andreh?",
+			"boxState": "normal",
+			"portrait": "creisi",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "andreh normal",
+			"text": "¿No crees que se van a enojar?",
+			"boxState": "normal",
+			"portrait": "andreh",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "creisif",
+			"text": "No, no creo.",
+			"boxState": "normal",
+			"portrait": "creisi",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Creisi... ¿Sí sabes que estamos a lado tuyo?",
+			"boxState": "angry",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "creisi normal",
+			"text": "sí.",
+			"boxState": "normal",
+			"portrait": "creisi",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				218,
+				59
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "missingcat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-176
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "missingcat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				122
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "missingcat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				71
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "missignocat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				60
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "missingcat intro",
+			"indices": []
+		},
+		{
+			"offsets": [
+				170,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "missingcat idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			],
+			"name": "missingcat idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Misssingato",
+	"position": [
+		-60,
+		60
+	],
+	"healthicon": "missingcat-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		112,
+		152
+	],
+	"camera_position": [
+		-160,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

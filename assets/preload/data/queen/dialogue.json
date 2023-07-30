@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "lauf",
+			"text": "Bueno Duxo, nuestra aventura llegó a su fin.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau",
+			"boxState": "normal",
+			"expression": "lau",
+			"text": "El chofer me dijo que estamos llegando al restaurante más cercano."
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Oh bueno, eso fue rápido.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo feliz",
+			"text": "¡Igual la pasé muy bien!"
+		},
+		{
+			"expression": "lauf",
+			"text": "No es tiempo de lamentarse Duxo, todavía queda tiempo para una más.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"sound": "",
+			"portrait": "lau"
+		}
+	]
+}

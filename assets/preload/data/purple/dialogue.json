@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo feliz",
+			"text": "Gracias por dejarme pasar.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Y perdón por la hora jeje, es prácticamente la madrugada.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisin",
+			"text": "Tranquilo, no estaba haciendo algo importante de todas formas.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisin",
+			"text": "Entonces...",
+			"sound": "",
+			"boxState": "normal",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisif",
+			"text": "¿Sabes algo sobre Aquino?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "No...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisin",
+			"text": "Es muy raro todo eso...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisif",
+			"text": "Es como si lo hubiesen borrado al tipo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Eso es imposible.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yo se que debe de estar en algún lugar.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "creisif",
+			"text": "¿Así como en una bolsa negra en la esquina de un callejón?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¡¡NO DIGAS ESO CREISI!!!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Me refiero a que si está bien.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Pero de seguro está pérdido.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "creisin",
+			"text": "Supongo...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisin",
+			"text": "Te noto muy tenso, ¿no quieres relajarte un poco?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿No crees que es un poco tarde como para cantar?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisis",
+			"text": "¿Cantar?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisif",
+			"text": "Bueno, supongo que funcionará también.",
+			"boxState": "normal",
+			"portrait": "creisi",
+			"sound": "",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿QUÉ?!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		}
+	]
+}

@@ -1,0 +1,145 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mau Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-288
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mau Down Full",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				221
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Full Mau Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				329,
+				36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mau Left finished",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mau Right Finished",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fadeIn",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Mau Spawn Full"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "fadeOut",
+			"fps": 24,
+			"name": "Mau Spawn Full",
+			"indices": [
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ataque",
+			"indices": [],
+			"name": "Mau atack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lost Mau Assets",
+	"position": [
+		480,
+		-20
+	],
+	"healthicon": "icon-monochrome-mau",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-217,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

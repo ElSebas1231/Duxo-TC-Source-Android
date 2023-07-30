@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro2",
+						"Sonando:",
+						"Acido\nDe: Kimakurus Music"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				45176.4705882353,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		]
+	}
+}

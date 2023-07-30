@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "pingasta",
+		"player1": "bf",
+		"player2": "lucasta",
+		"player3": null,
+		"events": [
+			[
+				34673.9130434783,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				48586.9565217391,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				62500,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-car",
+		"bpm": 138,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "groovegrooving"
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"position": [
+		110,
+		30
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "aquino2",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "felizAquino",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "aquino feliz"
+		},
+		{
+			"loop_offsets": [
+				-10,
+				-10
+			],
+			"anim": "desanimadoAquino",
+			"idle_offsets": [
+				-10,
+				-10
+			],
+			"loop_name": "",
+			"idle_name": "aquino desanimado"
+		},
+		{
+			"loop_offsets": [
+				30,
+				0
+			],
+			"anim": "miedoAquino",
+			"idle_offsets": [
+				30,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "aquino miedo"
+		},
+		{
+			"loop_offsets": [
+				20,
+				9
+			],
+			"anim": "nerviosoAquino",
+			"idle_offsets": [
+				20,
+				9
+			],
+			"loop_name": "",
+			"idle_name": "aquino nervioso"
+		},
+		{
+			"loop_offsets": [
+				20,
+				0
+			],
+			"anim": "talkAquino",
+			"idle_offsets": [
+				20,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "aquino normal"
+		},
+		{
+			"loop_offsets": [
+				20,
+				0
+			],
+			"anim": "enojadoAquino",
+			"idle_offsets": [
+				20,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "aquino enojado"
+		},
+		{
+			"loop_offsets": [
+				30,
+				0
+			],
+			"anim": "confundidoAquino",
+			"idle_offsets": [
+				30,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "aquino confundido"
+		}
+	]
+}

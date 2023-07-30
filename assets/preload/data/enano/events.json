@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "enano",
+		"player1": "bf",
+		"player2": "enano",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro",
+						"Boyfriend",
+						"El enano peliazul rapero"
+					]
+				]
+			],
+			[
+				4000,
+				[
+					[
+						"Intro2",
+						"Sonando:",
+						"Un nuevo amigo encontré (Enano)\nCover por: Koifee"
+					]
+				]
+			],
+			[
+				23625,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			],
+			[
+				34875,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35625,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			],
+			[
+				45500,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68625,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			],
+			[
+				71875,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			],
+			[
+				72625,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			],
+			[
+				77875,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80625,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			],
+			[
+				94250,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94750,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "aquinovia",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "enano"
+	}
+}

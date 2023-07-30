@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "don",
+		"player1": "bf",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"IntroDuxo",
+						"Sonando:",
+						"Don! - Miranda      (FNF x Duxo Cover) Cover de:Laleritose"
+					]
+				]
+			],
+			[
+				136625,
+				[
+					[
+						"Change Character",
+						"1",
+						"guitarra"
+					],
+					[
+						"Change Character",
+						"bf",
+						"duxoEmotes"
+					]
+				]
+			],
+			[
+				136750,
+				[
+					[
+						"Play Animation",
+						"NOOO",
+						"bf"
+					]
+				]
+			],
+			[
+				138180,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "don"
+	}
+}

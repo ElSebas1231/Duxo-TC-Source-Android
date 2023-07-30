@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "enano",
+		"player1": "bf",
+		"player2": "enano",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Introbf2",
+						"Sonando:",
+						"Test\nCover por: Koifee"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "aquinovia",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "test"
+	}
+}

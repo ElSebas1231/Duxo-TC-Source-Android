@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDL",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/natalan_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-natalan",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		82,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

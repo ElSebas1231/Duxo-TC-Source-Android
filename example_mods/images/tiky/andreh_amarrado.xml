@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="andreh amarrado.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yo que se instancia 10000" x="0" y="0" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10001" x="1143" y="0" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10002" x="2286" y="0" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10003" x="0" y="738" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10004" x="1143" y="738" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10005" x="2286" y="738" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10006" x="0" y="1476" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10007" x="1143" y="1476" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10008" x="2286" y="1476" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10009" x="2286" y="1476" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10010" x="2286" y="1476" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10011" x="2286" y="1476" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10012" x="2286" y="1476" width="1143" height="738"/>
+	<SubTexture name="yo que se instancia 10013" x="2286" y="1476" width="1143" height="738"/>
+</TextureAtlas>

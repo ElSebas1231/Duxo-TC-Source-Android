@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Qué...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.115,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxoconfuso",
+			"text": "¿Qué pasó?"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Dónde están todos...? ¿Dónde estoy...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.105,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "youtube normal",
+			"text": "Hola Duxo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.095,
+			"portrait": "youtube"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿Quién dijo eso?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Oh, eres tú....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¿Y tú qué haces aquí?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo nojao",
+			"text": "¿Y qué les pasó a todos?"
+		},
+		{
+			"expression": "youtube desafiante",
+			"text": "No te preocupes por eso...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.09,
+			"portrait": "youtube"
+		},
+		{
+			"expression": "youtube normal",
+			"text": "Yo ni siquiera estoy aquí.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "youtube"
+		},
+		{
+			"expression": "youtube desafiante",
+			"text": "Esto es solo un realidad paralela que hice, que ahora se proyecta en tu mente",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "youtube"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¿Entonces me volví loco?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "youtube serio",
+			"text": "Loco no, tonto.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "youtube"
+		},
+		{
+			"expression": "youtube normal",
+			"text": "Ya que yo soy real, y esto lugar es tan real como lo imagines.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "youtube"
+		},
+		{
+			"expression": "youtube normal",
+			"text": "Es un poco díficil de explicar esto.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "youtube"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Rayos, si estoy loco...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "youtube enojado",
+			"text": "¡QUÉ NO ESTÁS LOCO IDIOTA!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "youtube"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "youtube",
+			"boxState": "normal",
+			"expression": "youtube serio",
+			"text": "(Ya veo porque fue díficil entrar a su mente)"
+		},
+		{
+			"expression": "youtube serio",
+			"text": "(Dios, la primera vez que hice esto con el del pelo café fue mucho más fácil.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "youtube"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Entonces drogado?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.105,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "youtube enojado",
+			"text": "¡Empecemos de una vez!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "youtube"
+		}
+	]
+}

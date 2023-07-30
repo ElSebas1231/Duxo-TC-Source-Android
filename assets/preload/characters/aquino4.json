@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				382,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				364,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				348,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				315,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				357,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				382,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				364,
+				8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				348,
+				74
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				315,
+				22
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AquinoEnElCielo",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-aquino3",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		80,
+		0
+	],
+	"camera_position": [
+		-230,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.00000000000002
+}

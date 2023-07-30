@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		100,
+		10
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "clownso corrupted 1",
+			"anim": "clownso corrupted 1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "clownso corrupted 2",
+			"anim": "clownso corrupted 2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "clownso corrupted 3",
+			"anim": "clownso corrupted 3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "clownso corrupted 4",
+			"anim": "clownso corrupted 4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "clownso corrupted"
+}

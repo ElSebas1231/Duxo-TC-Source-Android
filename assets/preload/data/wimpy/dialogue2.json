@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talkAquino",
+			"text": "Te dije que es divertido hacer esto.",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Pero si yo no dije que no lo fuera.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nerviosoDuxo",
+			"text": "Simplemente creo que lo veo algo raro.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* Se escuchan pasos *"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"boxState": "normal",
+			"expression": "nerviosoAquino",
+			"text": "¿Escuchas eso?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxohabla",
+			"text": "Si. Creo que alguien viene."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxohabla",
+			"text": "Será mejor que venga preparado para que sea humillado."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Continuará..."
+		}
+	]
+}

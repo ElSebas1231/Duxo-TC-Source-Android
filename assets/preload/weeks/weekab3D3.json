@@ -1,0 +1,44 @@
+{
+	"storyName": "pingasta táctico",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "weekab2D3",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Groovegrooving",
+			"lucasta",
+			[
+				234,
+				92,
+				19
+			]
+		],
+		[
+			"Sounding like this",
+			"lucasta",
+			[
+				234,
+				92,
+				19
+			]
+		],
+		[
+			"Shield",
+			"lucasta",
+			[
+				234,
+				92,
+				19
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 15 FNF X Duxo"
+}

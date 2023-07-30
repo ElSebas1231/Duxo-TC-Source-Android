@@ -1,0 +1,49 @@
+{
+	"storyName": "está de vuelta...",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekab5D3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"No More Webadas",
+			"aquino6",
+			[
+				26,
+				0,
+				33
+			]
+		],
+		[
+			"infectedby2002",
+			"aquino5",
+			[
+				26,
+				0,
+				33
+			]
+		],
+		[
+			"Empty Hearth",
+			"aquino3",
+			[
+				206,
+				107,
+				47
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 18 FNF X Duxo"
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "c3jo confundido",
+			"anim": "c3jo confundido",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-40,
+				0
+			],
+			"idle_name": "c3jo enojado",
+			"anim": "c3jo enojado",
+			"loop_offsets": [
+				-40,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-70,
+				0
+			],
+			"idle_name": "c3jo feliz",
+			"anim": "c3jo feliz",
+			"loop_offsets": [
+				-70,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-50,
+				0
+			],
+			"idle_name": "c3jo modo  serio",
+			"anim": "c3jo modo  serio",
+			"loop_offsets": [
+				-50,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-50,
+				0
+			],
+			"idle_name": "c3jo normal",
+			"anim": "c3jo normal",
+			"loop_offsets": [
+				-50,
+				0
+			]
+		}
+	],
+	"image": "c3jo"
+}

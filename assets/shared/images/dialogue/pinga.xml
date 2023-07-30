@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pingasta corrupted.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lucasta corrupted 10000" x="0" y="0" width="470" height="542"/>
+	<SubTexture name="lucasta corrupted 20000" x="470" y="0" width="444" height="537"/>
+	<SubTexture name="lucasta corrupted 30000" x="914" y="0" width="431" height="526"/>
+</TextureAtlas>

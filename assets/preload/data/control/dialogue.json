@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sabes.. Tranquilamente podría acabar contigo aquí y ahora..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Lucasta... Eso no me asusta o íntimida en lo más mínimo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Qué te parece si cantamos otra a ver quién sale ganando?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "¿Ganando? Amigo podría matarte y listo... ¡NO HAY ESCAPATORIA!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Estás en medio del caos en el paralelo..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Espera... Escuché eso antes... ¿Es esto es una pesadilla o algo así?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Si... Y una muy real..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Entonces... Si muero, ¿qué pasará?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Morirás.                                       (¿en serio? no me digas)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "confundido",
+			"text": "¿Y qué tal si no?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pinga",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Esa no es una opción válida hermano, empecemos de una."
+		}
+	]
+}

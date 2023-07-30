@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				122,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				109,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				34,
+				-197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				58,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				22
+			],
+			"anim": "JIJIJIJA",
+			"fps": 24,
+			"name": "JIJIJIJA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				11
+			],
+			"anim": "GRRR",
+			"fps": 24,
+			"name": "GRRR",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CreisiEggMan",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "icon-creisi3",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		40,
+		82
+	],
+	"camera_position": [
+		50,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

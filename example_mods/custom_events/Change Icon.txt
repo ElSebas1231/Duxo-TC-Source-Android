@@ -1,0 +1,5 @@
+Solo value1
+Cambia el ícono del oponente (iconP2)
+
+Opciones:
+andreh/creisi/duo

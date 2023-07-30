@@ -1,0 +1,63 @@
+{
+	"position": [
+		50,
+		-10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.1,
+	"image": "creisi corrupted",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				-9
+			],
+			"anim": "talk",
+			"idle_name": "creisi corrupted 10000",
+			"loop_name": "creisi corrupted 10000"
+		},
+		{
+			"idle_offsets": [
+				23,
+				-7
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				23,
+				-7
+			],
+			"idle_name": "creisi corrupted 20000",
+			"loop_name": "creisi corrupted 20000"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				10,
+				4
+			],
+			"idle_name": "creisi corrupted 30000",
+			"loop_name": "creisi corrupted 30000"
+		},
+		{
+			"idle_offsets": [
+				-46,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-45,
+				-10
+			],
+			"idle_name": "creisi corrupted 40000",
+			"loop_name": "creisi corrupted 40000"
+		}
+	]
+}

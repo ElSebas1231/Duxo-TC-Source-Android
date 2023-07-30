@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo miedo",
+			"text": "AQUINO! ESTAS BIEN?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "aquino",
+			"text": "...",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bugeado2002"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "AQUINO SOLO DI ALGO!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "aquino",
+			"text": "Duxo... Vete",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bugeado2002"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "IRME?!",
+			"sound": "",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "angry",
+			"expression": "duxo nojao",
+			"text": "RECIEN TE ENCUENTRO!"
+		},
+		{
+			"expression": "aquinoc",
+			"text": "No soy el mismo Aquino, Duxo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bugeado2002"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "YO SE QUE LO ERES, ME ENFRENTE A MUCHAS COSAS ASI COMO TU PARA ENCONTRARTE!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "aquinob",
+			"text": "Je... Eso... Si es ser un buen amigo",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bugeado2002"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Ok Aquino, te llevare a un doctor, si?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "No...",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bugeado2002"
+		},
+		{
+			"expression": "talk",
+			"text": "Si sabes como funciona esto?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bugeado2002"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bugeado2002",
+			"boxState": "normal",
+			"expression": "aquino",
+			"text": "No puedo dejarte salir del otro lado."
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "A-Aquino? De que hablas?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "aquinoc",
+			"text": "La pesadilla no debe terminar, Duxo",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bugeado2002"
+		}
+	]
+}

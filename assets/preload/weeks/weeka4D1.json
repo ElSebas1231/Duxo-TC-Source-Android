@@ -1,0 +1,44 @@
+{
+	"storyName": "Gatitos Tommy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeka3D1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tomy",
+			"icon-tomy",
+			[
+				255,
+				255,
+				220
+			]
+		],
+		[
+			"House",
+			"icon-tomy",
+			[
+				255,
+				255,
+				220
+			]
+		],
+		[
+			"Electro",
+			"icon-tomy",
+			[
+				255,
+				255,
+				220
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4 FNF X Duxo"
+}

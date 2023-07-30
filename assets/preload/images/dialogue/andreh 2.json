@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		110,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-9
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "andreh corrupted 10000",
+			"idle_name": "andreh corrupted 10000"
+		},
+		{
+			"loop_offsets": [
+				6,
+				-11
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "andreh corrupted 20000",
+			"idle_name": "andreh corrupted 20000"
+		},
+		{
+			"loop_offsets": [
+				10,
+				4
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "andreh corrupted 30000",
+			"idle_name": "andreh corrupted 30000"
+		},
+		{
+			"loop_offsets": [
+				-5,
+				-10
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "andreh corrupted 40000",
+			"idle_name": "andreh corrupted 40000"
+		}
+	],
+	"image": "andreh corrupted"
+}

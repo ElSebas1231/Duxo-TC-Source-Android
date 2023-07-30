@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ready_wallop2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ready? WALLOP!0059" x="0" y="1227" width="2084" height="692" frameX="-223" frameY="-75" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0060" x="2084" y="1227" width="1266" height="448" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0061" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0062" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0063" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0064" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0065" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0066" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0067" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0068" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0069" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0070" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0071" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0072" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0073" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0074" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0075" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0076" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0077" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0078" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0079" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0080" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0081" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0082" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0083" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0084" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0085" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0086" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0087" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0088" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0089" x="0" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0090" x="1266" y="1919" width="1266" height="421" frameX="-632" frameY="-210" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0091" x="0" y="2340" width="2084" height="692" frameX="-223" frameY="-75" frameWidth="2531" frameHeight="841"/>
+	<SubTexture name="Ready? WALLOP!0092" x="0" y="3032" width="2531" height="841"/>
+</TextureAtlas>

@@ -1,0 +1,44 @@
+{
+	"storyName": "Editores corruptos",
+	"hideFreeplay": false,
+	"weekBackground": "duxo",
+	"difficulties": "hard",
+	"weekBefore": "weekaa1D2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"MadCow",
+			"vacaloca",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"No more editions",
+			"vacaloca",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"Crazy",
+			"creisi2",
+			[
+				24,
+				5,
+				38
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 9 FNF X Duxo"
+}

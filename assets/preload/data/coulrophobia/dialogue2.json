@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "clownso corrupted 2",
+			"text": "¡¡¡3sPErO Qu3 LeS GuSt3 El PaRaL3L0!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "clownsocorrupted"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Espera...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿QUÉ ESTÁ PASANDO?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "miedoAquino",
+			"text": "¡¡DUXO!!!\n                               (hey lo dijo)",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nada",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Continuará..."
+		}
+	]
+}

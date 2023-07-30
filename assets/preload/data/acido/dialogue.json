@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxoconfuso",
+			"text": "Por cierto, ¿Andreh está durmiendo o qué?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "Duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisis",
+			"text": "Oh, Andreh ya no vive aqui.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Qué? ¿Por qué no?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisin",
+			"text": "Bueno, llegó un punto donde cada uno tenía que escribir su camino...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisin",
+			"text": "El comenzó a ver a Locochon y se volvió más raro de lo normal.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisin",
+			"text": "Y como toda persona sensata y madura",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisif",
+			"text": "Lo boté de la casa.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Y... ¿En dónde vive ahora?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisin",
+			"text": "La última vez que hablé con él, estaba en una isla con más vacas sarnosas.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno, al menos está con su familia...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Espero poder verlo pronto...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisis",
+			"text": "Duxo, no se murió, simplemente puedes ir a verlo y listo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "No, no creo",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "creisif",
+			"text": "Hey, lo dijo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi",
+			"speed": 0.05
+		}
+	]
+}

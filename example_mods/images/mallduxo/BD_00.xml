@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BD_00.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ceiling Window instancia 10000" x="0" y="0" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10001" x="2633" y="0" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10002" x="5266" y="0" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10003" x="0" y="674" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10004" x="2633" y="674" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10005" x="5266" y="674" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10006" x="0" y="1348" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10007" x="2633" y="1348" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10008" x="5266" y="1348" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10009" x="0" y="2022" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10010" x="2633" y="2022" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10011" x="5266" y="2022" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10012" x="0" y="2696" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10013" x="2633" y="2696" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10014" x="5266" y="2696" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10015" x="0" y="3370" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10016" x="2633" y="3370" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10017" x="5266" y="3370" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10018" x="0" y="4044" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10019" x="2633" y="4044" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10020" x="5266" y="4044" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10021" x="0" y="4718" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10022" x="2633" y="4718" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10023" x="5266" y="4718" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10024" x="0" y="5392" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10025" x="2633" y="5392" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10026" x="5266" y="5392" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10027" x="0" y="6066" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10028" x="2633" y="6066" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10029" x="5266" y="6066" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10030" x="0" y="6740" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10031" x="2633" y="6740" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10032" x="5266" y="6740" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10033" x="0" y="7414" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10034" x="2633" y="7414" width="2633" height="674"/>
+	<SubTexture name="Ceiling Window instancia 10035" x="5266" y="7414" width="2633" height="674"/>
+</TextureAtlas>

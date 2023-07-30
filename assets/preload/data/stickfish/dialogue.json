@@ -1,0 +1,236 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo tite",
+			"text": "No puedo creer que si nos echaran de la casa...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Yo te dije, Creisi es raro a veces",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "Eso o también es tarado.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Un poco de ambas la verdad.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "talk",
+			"text": "*Chocan con alguien*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "c3jo feliz",
+			"text": "Uy, mala mía loco, perdón.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "No te preocupes... Estaba algo distraído",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "felizAquino",
+			"text": "¡Hey!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "felizAquino",
+			"text": "¡Pero si es C3jo!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "¿Qué onda C3jo?",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Hace tiempo no nos vemos.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "c3jo feliz",
+			"text": "Y si loco, la última vez que nos vimos fue. . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "c3jo confundido",
+			"text": "Espera, ¿cuándo fue la última vez que nos vimos?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "c3jo feliz",
+			"text": "Por cierto...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "c3jo confundido",
+			"text": "¿Porqué Aquino trae esa bocina con él?",
+			"boxState": "normal",
+			"portrait": "c3jo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Me llevo preguntando lo mismo desde la tarde..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "felizAquino",
+			"text": "¡Es mi nueva silla gamer!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Es que Aquino...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Creo que no da para eso...",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Yo creo que sí.",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "c3jo feliz",
+			"text": "Y bueno...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "c3jo normal",
+			"text": "¿Les gustaría hechar unos rounds?",
+			"boxState": "normal",
+			"portrait": "c3jo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Te refieres a unas batallas de rap?",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "c3jo feliz",
+			"text": "Ah si, eso.",
+			"boxState": "normal",
+			"portrait": "c3jo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¿Aquí?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¿En medio de un metro subterráneo lleno de gente?                      (mentira)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "c3jo normal",
+			"text": "Yep.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "talkDuxo",
+			"text": "Me parece bien.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "confundidoAquino",
+			"text": "¿Alguien sabe dónde puedo conectar esta cosa?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		}
+	]
+}

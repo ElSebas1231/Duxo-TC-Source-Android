@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo tite",
+			"text": "Bueno, mientras espero mi comida, ¿qué puedo hacer...?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Vaya, vaya...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "¡Pero si es el mísmisimo Duxo!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Esa voz...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿NATALAN?!",
+			"boxState": "angry",
+			"portrait": "duxo",
+			"sound": "",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata feliz",
+			"text": "¡En persona!",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata feliz",
+			"text": "¿Todo bien Duxo?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Jeje... Ciertamente sí.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "En estos días he visto a varios amigos.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata feliz",
+			"text": "No hay nada mejor que ver a viejos amigos, ¿verdad?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Sí...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Es genial tener a mis amigos conmigo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata",
+			"text": "Te noto un poco triste",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata feliz",
+			"text": "¿Está todo bien?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "No tanto...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Hace unas semanas que no se nada sobre Aquino y me estoy preocupando mucho.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata confuso",
+			"text": "Ehhh...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata confuso",
+			"text": "No soy muy bueno consolando, pero...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "nata feliz",
+			"text": "¡Todo saldrá bien!",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata feliz",
+			"text": "Ya verás que aparecerá cuando menos te lo esperes.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "natalan"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Eso espero...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata",
+			"text": "Si te sirve de consuelo, podríamos distraernos un poco.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "nata feliz",
+			"text": "¿Te parece?",
+			"sound": "",
+			"boxState": "normal",
+			"portrait": "natalan",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Hmmm...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Supongo que podría ayudar.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

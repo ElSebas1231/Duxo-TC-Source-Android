@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "Mira... Te seré sincera.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"expression": "talk",
+			"text": "No te puedo ayudar a escapar de aquí.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"expression": "excited",
+			"text": "Eso no lo haría alguien del paralelo... ¿Entiendes?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Ya me lo imaginaba.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Pero podemos hacer una cosa.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"expression": "excited",
+			"text": "Después de terminar esto...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Tú saltarás del auto, no falta mucho para llegar al mall."
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿No crées que puedo morir?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Morirás si te quedas, pero no te cuesta nada el poder intentarlo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau 2"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Tienes razón...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.10,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Está bien, hagamos esto entonces.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

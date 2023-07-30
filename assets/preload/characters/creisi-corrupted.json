@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "creisi idle"
+		},
+		{
+			"offsets": [
+				133,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "creisi right"
+		},
+		{
+			"offsets": [
+				211,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "creisi up"
+		},
+		{
+			"offsets": [
+				205,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "creisi left"
+		},
+		{
+			"offsets": [
+				199,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "creisi down"
+		},
+		{
+			"offsets": [
+				137,
+				42
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "ataque",
+			"indices": [],
+			"name": "ATAQUE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Corrupted_creisi",
+	"position": [
+		180,
+		285
+	],
+	"healthicon": "icon-creisi2",
+	"flip_x": false,
+	"healthbar_colors": [
+		166,
+		20,
+		189
+	],
+	"camera_position": [
+		-520,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

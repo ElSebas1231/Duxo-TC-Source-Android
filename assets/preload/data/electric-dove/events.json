@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "thunder",
+		"player1": "bf-aquino",
+		"player2": "duxo",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"IntroDuxo",
+						"Sonando:",
+						"Electric Dove (Thunderstorm)    Cover de: Kimakurus"
+					]
+				]
+			],
+			[
+				93.75,
+				[
+					[
+						"deathaquino",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-car",
+		"bpm": 196,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Thunderstorm"
+	}
+}

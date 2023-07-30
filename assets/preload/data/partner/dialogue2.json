@@ -1,0 +1,212 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Bueno... Vayamos a buscar a Aquino...",
+			"boxState": "normal",
+			"portrait": "soaring",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Si, vamos antes de que se ponga aún más fea la cosa.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "soaring",
+			"speed": 0.115,
+			"sound": ""
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿S-Soaring?!",
+			"boxState": "angry",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Hola Duxo...",
+			"boxState": "normal",
+			"portrait": "creisi 2",
+			"speed": 0.06,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi 2",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Te ves muy bien para las horas que han pasado."
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Ehhh... ¿Creisi? ¡¿Eres tú?!",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Amigos, ¡¿qué les pasa?!",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "¿Porque mataron a Soaring?",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Bueno... Digamos que hace rato estábamos buscándote",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "(Eso no respondió a mi pregunta.)",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ya que Aquino logró escapar de nosotros...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "(¿Aquino? Tal vez ellos sepan algo de él, pero ¿porqué le harían eso a Soaring...?)",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "Duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Saben dónde está Aquino?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Literalmente acabo de decir que se escapó...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Igual no creo que llegue muy lejos.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "andreh 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Creisi lo dejó moribundo jeje...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "andreh 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "(Mierda... Definitivamente no son ellos)",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "(Es como si fuera otro lugar...)",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo tite",
+			"text": "(Ahora Soaring está muerto... ¡¿Qué hago?!)"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "(E-Espera, ¡¿que es ese ruido?!)",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Creo que deberíamos llevarlo a casa Andreh..",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Está bien, solo noquéalo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "andreh 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Perfecto.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "creisi 2",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"sound": "creisiattack",
+			"portrait": "",
+			"speed": 0.05
+		}
+	]
+}

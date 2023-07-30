@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo tite",
+			"text": "Nunca creí que diría esto, pero tengo que hablar con Creisi y Andreh.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "derp",
+			"text": "Oh. ¿Dijiste algo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nimu"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Dije que iré a preguntarle a unos amigos si saben algo sobre Aquino.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nimu sad",
+			"text": "Entonces... ¿Ya te vas Puvlo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nimu"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "Es Duxo.",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nimu",
+			"text": "Como digas Tuxo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nimu"
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxoconfuso",
+			"text": "Lucasta... ¿Qué fue eso?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucasconfu",
+			"text": "¿Fue qué?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "pingasta",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿No sentiste como si estuviésemos en otra dimensión?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucas",
+			"text": "Ehhh... No, nada.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "pingasta",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno... Me tengo que ir.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "¡Nos vemos!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "¿No quieres un empujón Duxo?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Esa voz...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿LAU?!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		}
+	]
+}

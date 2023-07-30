@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="andreh.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="andreh desanimado0000" x="0" y="0" width="484" height="434"/>
+	<SubTexture name="andreh feliz0000" x="484" y="0" width="388" height="439"/>
+	<SubTexture name="andreh miedo0000" x="0" y="439" width="306" height="446"/>
+	<SubTexture name="andreh normal0000" x="306" y="439" width="400" height="437"/>
+</TextureAtlas>

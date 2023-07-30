@@ -1,0 +1,44 @@
+{
+	"storyName": "Manten la Distancia",
+	"hideFreeplay": false,
+	"weekBackground": "duxo",
+	"weekBefore": "weekaa3D2",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hater",
+			"lau2",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"Time Out",
+			"lau2",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"Suffer",
+			"lau2",
+			[
+				24,
+				5,
+				38
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 11 FNF X Duxo"
+}

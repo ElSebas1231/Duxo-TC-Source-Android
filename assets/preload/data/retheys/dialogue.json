@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo tite",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.205,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Cada vez es mas surrealista esto.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Aquino, ¿Qué pasó?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Bueno... Mientras tu tenías un transe raro, un seguidor tuyo nos dió un disco con una rata en el logo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "felizAquino",
+			"text": "Y decidí probarlo en un local de Movistar que estaba al lado.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Y porqué de Movistar exactamente?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Porque no quería caminar mucho y estaba cerca, así que te arrastré hasta el local.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Literalmente.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Bueno, ¿y eso que tiene que ver con que ahora estemos en píxeles?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "ratoncito feliz",
+			"text": "¡Hola amigos!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Y también está esta rata bastante rara de aquí.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "Supongo que era un juego que te hicieron o algo por el estilo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "ratoncito feliz",
+			"text": "Hola, ¡soy una rata!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "No me digas...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo tite",
+			"text": "Digo, eh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo feliz",
+			"text": "¡Hola rata!, ¿qué es este lugar?"
+		},
+		{
+			"expression": "ratoncito normal",
+			"text": "Esto es un simulador de rethey que hizo tu comunidad para el\n#Ratastemadelverano",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Pero si eso fue hace tiempo wtf...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "¿Qué esperabas? Esto salió después de la fecha planeada y la siguiente fecha planeada y la siguiente de la siguiente de la siguiente de la que le siguió a esa y de la que siguió y se aplasó a más",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¿Fecha de qué?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

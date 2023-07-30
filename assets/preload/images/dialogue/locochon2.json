@@ -1,0 +1,89 @@
+{
+	"position": [
+		100,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "locochon 2",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "locochon confundido",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "locochon 2 confundido"
+		},
+		{
+			"loop_offsets": [
+				2,
+				1
+			],
+			"anim": "locochon enojao",
+			"idle_offsets": [
+				2,
+				1
+			],
+			"loop_name": "",
+			"idle_name": "locochon 2 enojado"
+		},
+		{
+			"loop_offsets": [
+				4,
+				-2
+			],
+			"anim": "locochon happy",
+			"idle_offsets": [
+				4,
+				-2
+			],
+			"loop_name": "",
+			"idle_name": "locochon 2 feliz"
+		},
+		{
+			"loop_offsets": [
+				4,
+				0
+			],
+			"anim": "locochon miedoso",
+			"idle_offsets": [
+				4,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "locochon 2 miedo"
+		},
+		{
+			"loop_offsets": [
+				4,
+				0
+			],
+			"anim": "locochon serio",
+			"idle_offsets": [
+				4,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "locochon 2 serio"
+		},
+		{
+			"loop_offsets": [
+				1,
+				1
+			],
+			"anim": "locochon normal",
+			"idle_offsets": [
+				1,
+				1
+			],
+			"loop_name": "",
+			"idle_name": "locochon 2 normal"
+		}
+	]
+}

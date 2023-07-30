@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo feliz",
+			"text": "Tomy, cuando dijiste que nos ibas a llevar al mall...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "angry",
+			"expression": "duxo nervioso",
+			"text": "¡No pensaba que nos ibas a llevar asi!"
+		},
+		{
+			"expression": "tomycatt normal",
+			"text": "Tú sabes que me gusta dar un buen show siempre que estamos juntos.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Ya pero, ¡no este tipo de show!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "enojadoAquino",
+			"text": "No te quejes Duxo, no es la primera vez que haces algo asi.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Ya, pero la última vez que hicimos algo así...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "¡Yo estaba en tu lugar y tú en el mío!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Sip, es divertido cantar con la brisa del viento...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Recuerdo cuando hicimos esto con Daniel, que buenos tiempos...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "tomycatt feliz",
+			"text": "Aquino tiene razón, además...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt",
+			"boxState": "normal",
+			"expression": "tomycatt normal",
+			"text": "No estamos tan lejos del mall, seguro que en un momento llegamos."
+		},
+		{
+			"expression": "tomycatt feliz",
+			"text": "Será como un corto viaje músical en un atardecer sobre unas limos con riesgo a sufrir una lesión grave o posiblemente la muerte.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "tomycatt"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt",
+			"boxState": "normal",
+			"expression": "tomycatt normal",
+			"text": "Nada del otro mundo."
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "Literalmente.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		}
+	]
+}

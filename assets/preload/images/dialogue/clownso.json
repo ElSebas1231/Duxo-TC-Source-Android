@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		90,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "clownso 1",
+			"anim": "clownso 1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "clownso 2",
+			"anim": "clownso 2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "clownso 3",
+			"anim": "clownso 3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "clownso 4",
+			"anim": "clownso 4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "clownso"
+}

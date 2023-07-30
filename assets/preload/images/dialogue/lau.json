@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "lau",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lau",
+			"idle_offsets": [
+				-83,
+				31
+			],
+			"loop_name": "lau normal",
+			"idle_name": "lau normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lauf",
+			"idle_offsets": [
+				-82,
+				32
+			],
+			"loop_name": "lau feliz",
+			"idle_name": "lau feliz"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lauc",
+			"idle_offsets": [
+				-114,
+				25
+			],
+			"loop_name": "lau curiosa",
+			"idle_name": "lau curiosa"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "laue",
+			"idle_offsets": [
+				-94,
+				34
+			],
+			"loop_name": "lau enojada",
+			"idle_name": "lau enojada"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "laum",
+			"idle_offsets": [
+				-110,
+				30
+			],
+			"loop_name": "lau miedo",
+			"idle_name": "lau miedo"
+		}
+	]
+}

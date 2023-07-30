@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lau.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lau curiosa0000" x="0" y="0" width="416" height="605"/>
+	<SubTexture name="lau enojada0000" x="416" y="0" width="450" height="614"/>
+	<SubTexture name="lau feliz0000" x="866" y="0" width="469" height="614"/>
+	<SubTexture name="lau miedo0000" x="1335" y="0" width="407" height="614"/>
+	<SubTexture name="lau normal0000" x="0" y="614" width="460" height="614"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+{
+	"storyName": "No eh Comido en Días",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeka1D1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"PURPLESHROOMS",
+			"icon-explotadorychuletas",
+			[
+				120,
+				5,
+				102
+			]
+		],
+		[
+			"Power of Edition",
+			"icon-explotadorychuletas",
+			[
+				120,
+				5,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2 FNF X Duxo"
+}

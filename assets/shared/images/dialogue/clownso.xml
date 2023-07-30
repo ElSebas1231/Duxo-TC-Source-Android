@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clownso.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clownso 10000" x="0" y="0" width="490" height="525"/>
+	<SubTexture name="clownso 20000" x="490" y="0" width="498" height="522"/>
+	<SubTexture name="clownso 30000" x="988" y="0" width="472" height="498"/>
+	<SubTexture name="clownso 40000" x="1460" y="0" width="487" height="513"/>
+</TextureAtlas>

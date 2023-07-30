@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="week 3 bg chars.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coso  instancia 10000" x="0" y="0" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10001" x="0" y="0" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10002" x="0" y="413" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10003" x="0" y="413" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10004" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10005" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10006" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10007" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10008" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10009" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10010" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10011" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10012" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10013" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10014" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10015" x="0" y="826" width="1109" height="413"/>
+	<SubTexture name="coso  instancia 10016" x="0" y="826" width="1109" height="413"/>
+</TextureAtlas>

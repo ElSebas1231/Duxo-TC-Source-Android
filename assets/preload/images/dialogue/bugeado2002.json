@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Aquino",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "aquino",
+			"idle_offsets": [
+				-95,
+				56
+			],
+			"loop_name": "aquino corrupted",
+			"idle_name": "aquino corrupted"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "aquinob",
+			"idle_offsets": [
+				-97,
+				45
+			],
+			"loop_name": "aquino triste",
+			"idle_name": "aquino triste"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "aquinoc",
+			"idle_offsets": [
+				-78,
+				70
+			],
+			"loop_name": "aquino nervioso",
+			"idle_name": "aquino nervioso"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "ratoncito normal",
+			"text": "Bueno, parece que la prueba gratuita está finalizando.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Esto es como una demo o algo así?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "ratoncito normal",
+			"text": "En efecto, mi querido Duxo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito",
+			"boxState": "normal",
+			"expression": "ratoncito feliz",
+			"text": "Luego de esto voy a expulsarlos en una parte aleatoria del mundo."
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¿Eso es posible?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "confundidoAquino",
+			"text": "¿Ósea que nos puedes mandar a un país diferente?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "ratoncito normal",
+			"text": "Sí, pero los mandaré a su casa solamente.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "¿Esto es un doxxeo o algo así?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "ratoncito feliz",
+			"text": "En efecto Aquino, tambien conocido como 153.214.135.21",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"expression": "talk",
+			"text": "(Solo para aclarar, son numeros al azar y no es una IP real)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito",
+			"boxState": "normal",
+			"expression": "ratoncito normal",
+			"text": "O pensádolo bien, los mandaré a un circo."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxoconfuso",
+			"text": "¿Y porqué a un circo?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito",
+			"boxState": "normal",
+			"expression": "ratoncito feliz",
+			"text": "Por cosas de la trama."
+		}
+	]
+}

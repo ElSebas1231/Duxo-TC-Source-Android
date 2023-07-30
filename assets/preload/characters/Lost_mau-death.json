@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [
+				0,
+				0
+			],
+			"name": "Mau Spawn Full"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				0,
+				0
+			],
+			"name": "Mau Spawn Full"
+		},
+		{
+			"offsets": [
+				670,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "firstDeath",
+			"indices": [
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "Mau Spawn Full"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lost Mau Assets",
+	"position": [
+		480,
+		0
+	],
+	"healthicon": "gold",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-207,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

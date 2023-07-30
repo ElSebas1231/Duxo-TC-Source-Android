@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lau_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-53
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Lau_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Lau_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Lau_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Lau_Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lau_sprites",
+	"position": [
+		60,
+		0
+	],
+	"healthicon": "icon-lau2",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		49,
+		167
+	],
+	"camera_position": [
+		70,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

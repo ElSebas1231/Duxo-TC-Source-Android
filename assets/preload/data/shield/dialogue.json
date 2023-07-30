@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "lucas",
+			"text": "Bueno, creo que mejor me voy...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta",
+			"boxState": "normal",
+			"expression": "lucasd",
+			"text": "No le sé mucho a esto."
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "¡Vamos Lucasta!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo feliz",
+			"text": "¡Yo sé que lo puedes hacer mejor!"
+		},
+		{
+			"expression": "lucasconfu",
+			"text": "Bro, pero si soy malísimo en esto.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Lo sé.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo feliz",
+			"text": "Pero algo dentro de mí, ¡siente que lo puedes hacer mejor!"
+		},
+		{
+			"expression": "lucas",
+			"text": "Cada vez que te veo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta",
+			"boxState": "normal",
+			"expression": "lucasconfu",
+			"text": "Eres mucho más raro."
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Tú solo dejate llevar, no hay nada de malo, ¿verdad?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "lucas",
+			"text": "Si tú lo dices...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		}
+	]
+}

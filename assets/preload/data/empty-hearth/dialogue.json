@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿A-Aquino?! ¡¿D-Donde estamos?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "desanimadoAquino",
+			"text": "No te vas a rendir, ¿verdad?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "¡¿Podrías responder mi pregunta?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "No me gustaría llegar al final de la caída...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "desanimadoAquino",
+			"text": "Déjame ir Duxo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "!AQUINO! ¡RESPONDE MI MALDITA PREGUNTA!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "desanimadoAquino",
+			"text": "Estamos en camino al paralelo Duxo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "desanimadoAquino",
+			"text": "Esto no va a acabar hasta que me dejes ir...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo nojao",
+			"text": "¡SI TE DEJO IR ESTARE SOLO AQUINO!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "No estás solo...",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "enojadoAquino",
+			"text": "Tienes a el resto de nuestros amigos.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Es que, no es lo mismo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Tú eres mi mejor amigo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.12,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "desanimadoAquino",
+			"text": "Yo me tengo que quedar en el otro lado Duxo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "desanimadoAquino",
+			"text": "Asi son las cosas...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "P-Pero...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Si te quedas del otro lado...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Qué pasará contigo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Yo estaré bien...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "felizAquino",
+			"text": "Nuestros amigos estan ahí.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "No son los mismos, servirá.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Está bien...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Pero lo intentaré una última vez.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

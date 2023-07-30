@@ -1,0 +1,44 @@
+{
+	"storyName": "Página Corrupta",
+	"hideFreeplay": false,
+	"weekBackground": "duxo",
+	"weekBefore": "weekaa4D2",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Moon",
+			"nat",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"Gravity",
+			"nat",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"WingWeb",
+			"yt",
+			[
+				84,
+				5,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 12 FNF X Duxo"
+}

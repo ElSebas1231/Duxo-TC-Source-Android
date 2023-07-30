@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxohabla",
+			"text": "Nada mal, mongolón.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucasconfu",
+			"text": "Oye, esa es mi frase.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "pingasta",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Tienes más ritmo que antes por lo que veo jeje.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucassexo",
+			"text": "¡¿Cómo que antes?!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "pingasta",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Ehh sí, te escuché cantar hace tiempo, ¿qué no te acuerdas?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucasconfu",
+			"text": "Ehhh... Supongo...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "pingasta",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Que sí...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "¿Te parece si le damos otro round?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucas",
+			"text": "Claro, yo tengo que hacer cosas luego, así que otro round estaría bien.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "pingasta",
+			"speed": 0.05
+		}
+	]
+}

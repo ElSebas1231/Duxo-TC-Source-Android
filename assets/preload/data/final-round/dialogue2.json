@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "c3jo feliz",
+			"text": "Eh chicos, parece que el metro va llegando.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "talk",
+			"text": "¿No se van a subir?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Ah si. ¡Gracias C3jo!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Chicos, ¿no quieren que los lleve?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nada"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¿Ah quién?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "felizAquino",
+			"text": "¡Tomyyyyy!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "tomycatt normal",
+			"text": "¡Hola chicos! Los escuché que iban para el mall.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "tomycatt feliz",
+			"text": "¿No quieren que los lleve en mi limo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Claro que sí.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Por su puesto. Pensándolo bien, es una mejor opción",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "Pero, ¿en dónde me llevo esta bocina?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		}
+	]
+}

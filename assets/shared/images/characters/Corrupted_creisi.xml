@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Corrupted_creisi.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ATAQUE0000" x="0" y="0" width="581" height="442" frameX="-14" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0001" x="591" y="0" width="1196" height="442" frameX="-14" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0002" x="1797" y="0" width="1239" height="442" frameX="-9" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0003" x="1797" y="0" width="1239" height="442" frameX="-9" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0004" x="0" y="452" width="1272" height="442" frameX="0" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0005" x="0" y="452" width="1272" height="442" frameX="0" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0006" x="1797" y="0" width="1239" height="442" frameX="-9" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0007" x="1797" y="0" width="1239" height="442" frameX="-9" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0008" x="1282" y="452" width="1202" height="442" frameX="-14" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0009" x="1282" y="452" width="1202" height="442" frameX="-14" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0010" x="2494" y="452" width="893" height="442" frameX="-14" frameY="-14" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0011" x="3397" y="452" width="393" height="464" frameX="-14" frameY="0" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0012" x="3397" y="452" width="393" height="464" frameX="-14" frameY="0" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="ATAQUE0013" x="0" y="926" width="389" height="464" frameX="-16" frameY="0" frameWidth="1272" frameHeight="464"/>
+	<SubTexture name="creisi down0000" x="399" y="926" width="554" height="333" frameX="0" frameY="-2" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0001" x="399" y="926" width="554" height="333" frameX="0" frameY="-2" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0002" x="963" y="926" width="549" height="335" frameX="-3" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0003" x="963" y="926" width="549" height="335" frameX="-3" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0004" x="1522" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0005" x="1522" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0006" x="2079" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0007" x="2079" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0008" x="2079" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0009" x="2079" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0010" x="2079" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0011" x="2079" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0012" x="2079" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi down0013" x="2079" y="926" width="547" height="335" frameX="-4" frameY="0" frameWidth="554" frameHeight="335"/>
+	<SubTexture name="creisi idle0000" x="2636" y="926" width="372" height="473" frameX="0" frameY="-12" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0001" x="2636" y="926" width="372" height="473" frameX="0" frameY="-12" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0002" x="3018" y="926" width="372" height="475" frameX="-1" frameY="-10" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0003" x="3018" y="926" width="372" height="475" frameX="-1" frameY="-10" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0004" x="3400" y="926" width="367" height="481" frameX="-6" frameY="-4" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0005" x="3400" y="926" width="367" height="481" frameX="-6" frameY="-4" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0006" x="0" y="1417" width="365" height="484" frameX="-8" frameY="-1" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0007" x="0" y="1417" width="365" height="484" frameX="-8" frameY="-1" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0008" x="375" y="1417" width="364" height="485" frameX="-8" frameY="0" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0009" x="749" y="1417" width="364" height="485" frameX="-8" frameY="0" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0010" x="1123" y="1417" width="362" height="485" frameX="-8" frameY="0" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0011" x="1123" y="1417" width="362" height="485" frameX="-8" frameY="0" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0012" x="1123" y="1417" width="362" height="485" frameX="-8" frameY="0" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi idle0013" x="1123" y="1417" width="362" height="485" frameX="-8" frameY="0" frameWidth="373" frameHeight="485"/>
+	<SubTexture name="creisi left0000" x="1495" y="1417" width="492" height="450" frameX="0" frameY="-1" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0001" x="1495" y="1417" width="492" height="450" frameX="0" frameY="-1" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0002" x="1997" y="1417" width="486" height="451" frameX="-2" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0003" x="1997" y="1417" width="486" height="451" frameX="-2" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0004" x="2493" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0005" x="2493" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0006" x="2985" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0007" x="2985" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0008" x="2985" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0009" x="2985" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0010" x="2985" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0011" x="2985" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0012" x="2985" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi left0013" x="2985" y="1417" width="482" height="451" frameX="-4" frameY="0" frameWidth="492" frameHeight="451"/>
+	<SubTexture name="creisi right0000" x="3477" y="1417" width="477" height="441" frameX="0" frameY="-1" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0001" x="3477" y="1417" width="477" height="441" frameX="0" frameY="-1" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0002" x="0" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0003" x="0" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0004" x="486" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0005" x="486" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0006" x="972" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0007" x="972" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0008" x="972" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0009" x="972" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0010" x="972" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0011" x="972" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0012" x="972" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi right0013" x="972" y="1912" width="476" height="442" frameX="0" frameY="0" frameWidth="477" frameHeight="442"/>
+	<SubTexture name="creisi up0000" x="1458" y="1912" width="487" height="542" frameX="-1" frameY="-16" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0001" x="1458" y="1912" width="487" height="542" frameX="-1" frameY="-16" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0002" x="1955" y="1912" width="489" height="550" frameX="0" frameY="-8" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0003" x="1955" y="1912" width="489" height="550" frameX="0" frameY="-8" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0004" x="2454" y="1912" width="489" height="558"/>
+	<SubTexture name="creisi up0005" x="2454" y="1912" width="489" height="558"/>
+	<SubTexture name="creisi up0006" x="2953" y="1912" width="489" height="539" frameX="0" frameY="-19" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0007" x="2953" y="1912" width="489" height="539" frameX="0" frameY="-19" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0008" x="2953" y="1912" width="489" height="539" frameX="0" frameY="-19" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0009" x="2953" y="1912" width="489" height="539" frameX="0" frameY="-19" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0010" x="2953" y="1912" width="489" height="539" frameX="0" frameY="-19" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0011" x="2953" y="1912" width="489" height="539" frameX="0" frameY="-19" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0012" x="2953" y="1912" width="489" height="539" frameX="0" frameY="-19" frameWidth="489" frameHeight="558"/>
+	<SubTexture name="creisi up0013" x="2953" y="1912" width="489" height="539" frameX="0" frameY="-19" frameWidth="489" frameHeight="558"/>
+</TextureAtlas>

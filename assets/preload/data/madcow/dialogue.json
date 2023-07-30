@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "¿Qué? ¿En dónde estamos...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.13,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "Estás en casa duxo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "creisi 2"
+		},
+		{
+			"expression": "talk",
+			"text": "Hagámoslo fácil, te quedas a pasar el rato...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "andreh 2"
+		},
+		{
+			"expression": "excited",
+			"text": "O te mueres como Aquino.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.15,
+			"portrait": "andreh 2"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Pasar el rato? ¿Pero de que manera?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "excited",
+			"text": "Bueno... Hace rato no pudimos evitar escucharlos hace rato.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "andreh 2"
+		},
+		{
+			"expression": "shocked",
+			"text": "Y queríamos ver si querias cantar con nostros un rato :)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "creisi 2"
+		},
+		{
+			"expression": "excited",
+			"text": "Eh... Claro, ¿porqué no?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.12,
+			"portrait": "duxo"
+		}
+	]
+}

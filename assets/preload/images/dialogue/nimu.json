@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				-104,
+				65
+			],
+			"anim": "nimu desafiante",
+			"loop_offsets": [
+				-31,
+				39
+			],
+			"idle_name": "nimu 3",
+			"loop_name": "nimu 3"
+		},
+		{
+			"idle_offsets": [
+				-90,
+				67
+			],
+			"anim": "nimu sad",
+			"loop_offsets": [
+				-31,
+				41
+			],
+			"idle_name": "nimu 6",
+			"loop_name": "nimu 6"
+		},
+		{
+			"idle_offsets": [
+				-92,
+				67
+			],
+			"anim": "nimu enojao",
+			"loop_offsets": [
+				-31,
+				41
+			],
+			"idle_name": "nimu 5",
+			"loop_name": "nimu 5"
+		},
+		{
+			"idle_offsets": [
+				-92,
+				67
+			],
+			"anim": "nimu",
+			"loop_offsets": [
+				-40,
+				39
+			],
+			"idle_name": "nimu 1",
+			"loop_name": "nimu 1"
+		},
+		{
+			"idle_offsets": [
+				-95,
+				68
+			],
+			"anim": "nimu feliz",
+			"loop_offsets": [
+				-30,
+				40
+			],
+			"idle_name": "nimu 2",
+			"loop_name": "nimu 2"
+		},
+		{
+			"idle_offsets": [
+				-96,
+				67
+			],
+			"anim": "derp",
+			"loop_offsets": [
+				-30,
+				40
+			],
+			"idle_name": "nimu 4",
+			"loop_name": "nimu 4"
+		}
+	],
+	"image": "nimu"
+}

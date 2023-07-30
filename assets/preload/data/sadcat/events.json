@@ -1,0 +1,326 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro2",
+						"Sonando:",
+						"Sadcat\nDe: Kimakurus Music"
+					]
+				]
+			],
+			[
+				27428.5714285714,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				44571.4285714286,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				51428.5714285715,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				58285.7142857143,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				61714.2857142858,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				63428.5714285715,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				65250.0000000001,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				66857.1428571429,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				75428.5714285715,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				77142.8571428572,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				82285.7142857143,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				95464.2857142857,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				106285.714285714,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				111428.571428571,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				113142.857142857,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				114857.142857143,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				116571.428571429,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				118285.714285714,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				121714.285714286,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Play Animation",
+						"changebg",
+						""
+					]
+				]
+			],
+			[
+				133714.285714286,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			]
+		]
+	}
+}

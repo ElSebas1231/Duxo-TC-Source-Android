@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxoconfuso",
+			"text": "¿De verdad crées que esto es una buena idea?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"boxState": "normal",
+			"expression": "felizAquino",
+			"text": "Claro que sí."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"boxState": "normal",
+			"expression": "talkAquino",
+			"text": "Piénsalo, falta poco para tu cumple y pues..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"boxState": "normal",
+			"expression": "talkAquino",
+			"text": "¡Puede que pasen cosas muy interesante y esto sea un buen show!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo nervioso",
+			"text": "No me gusta mucho tu idea..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxo feliz",
+			"text": "¡Pero no pierdo nada en intentarlo!"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"storyName": "Peruano Mortal",
+	"hideFreeplay": false,
+	"weekBackground": "duxo",
+	"weekBefore": "weekaa2D2",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Nice Meeting",
+			"lucas",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"Control",
+			"lucas",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"Offmind",
+			"lucas",
+			[
+				24,
+				5,
+				38
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 10 FNF X Duxo"
+}

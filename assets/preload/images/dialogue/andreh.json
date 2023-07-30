@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		70
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "andreh desanimado",
+			"anim": "andreh desanimado",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-43,
+				0
+			],
+			"idle_name": "andreh feliz",
+			"anim": "andreh happy",
+			"loop_offsets": [
+				-42,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-70,
+				0
+			],
+			"idle_name": "andreh miedo",
+			"anim": "andreh miedo",
+			"loop_offsets": [
+				-70,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-30,
+				0
+			],
+			"idle_name": "andreh normal",
+			"anim": "andreh normal",
+			"loop_offsets": [
+				-30,
+				0
+			]
+		}
+	],
+	"image": "andreh"
+}

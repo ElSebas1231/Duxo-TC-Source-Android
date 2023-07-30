@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="natalan.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="natalan enojado0000" x="0" y="0" width="417" height="592"/>
+	<SubTexture name="natalan feliz0000" x="417" y="0" width="414" height="592"/>
+	<SubTexture name="natalan miedo0000" x="831" y="0" width="443" height="592"/>
+	<SubTexture name="natalan normal 10000" x="1274" y="0" width="411" height="592"/>
+	<SubTexture name="natalan normal 20000" x="0" y="592" width="400" height="599"/>
+</TextureAtlas>

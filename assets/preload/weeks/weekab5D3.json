@@ -1,0 +1,44 @@
+{
+	"storyName": "Sans Undertale",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "weekab4D3",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Bad Day",
+			"natalan",
+			[
+				120,
+				209,
+				255
+			]
+		],
+		[
+			"hellmoon",
+			"natalan",
+			[
+				120,
+				209,
+				255
+			]
+		],
+		[
+			"The Boss",
+			"aquino7",
+			[
+				46,
+				0,
+				33
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 17 FNF X Duxo"
+}

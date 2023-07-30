@@ -1,0 +1,245 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				84
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Duxo IDL dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				79
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Duxo LEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				71
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Duxo RIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Duxo DOWN",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				108
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Duxo UP",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				62
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Duxo DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				88
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Duxo LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				122
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Duxo UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-129,
+				106
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Duxo RIGHT MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Duxo dead comfirm"
+		},
+		{
+			"offsets": [
+				15,
+				45
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Duxo dead loop"
+		},
+		{
+			"offsets": [
+				15,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Duxo DIES"
+		},
+		{
+			"offsets": [
+				1585,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodges",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			],
+			"name": "duxo dodge0"
+		},
+		{
+			"offsets": [
+				1595,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge fail",
+			"indices": [
+				6,
+				7,
+				8
+			],
+			"name": "duxo dodges fail"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duxo_car_assets",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "icon-duxo",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,59 @@
+{
+	"storyName": "Week rancia",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekab6D3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Creisi Vs Mau187",
+			"icon-mau",
+			[
+				68,
+				68,
+				240
+			]
+		],
+		[
+			"expurgationen02",
+			"expurgationaquino",
+			[
+				255,
+				0,
+				40
+			]
+		],
+		[
+			"endless",
+			"corruptedduxo",
+			[
+				24,
+				5,
+				38
+			]
+		],
+		[
+			"don",
+			"duxo",
+			[
+				106,
+				0,
+				150
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "weekrara",
+	"hiddenUntilUnlocked": false
+}

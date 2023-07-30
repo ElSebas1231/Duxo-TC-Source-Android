@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backGuys.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BackCoolGuys0000" x="10" y="10" width="2463" height="758" frameX="0" frameY="-9" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0001" x="10" y="10" width="2463" height="758" frameX="0" frameY="-9" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0002" x="10" y="778" width="2455" height="761" frameX="-4" frameY="-6" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0003" x="10" y="778" width="2455" height="761" frameX="-4" frameY="-6" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0004" x="10" y="1549" width="2443" height="766" frameX="-10" frameY="-1" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0005" x="10" y="1549" width="2443" height="766" frameX="-10" frameY="-1" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0006" x="10" y="2325" width="2439" height="767" frameX="-12" frameY="0" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0007" x="10" y="2325" width="2439" height="767" frameX="-12" frameY="0" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0008" x="10" y="3102" width="2439" height="767" frameX="-12" frameY="0" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0009" x="10" y="3102" width="2439" height="767" frameX="-12" frameY="0" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0010" x="10" y="3102" width="2439" height="767" frameX="-12" frameY="0" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0011" x="10" y="3102" width="2439" height="767" frameX="-12" frameY="0" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0012" x="10" y="3102" width="2439" height="767" frameX="-12" frameY="0" frameWidth="2463" frameHeight="767"/>
+	<SubTexture name="BackCoolGuys0013" x="10" y="3102" width="2439" height="767" frameX="-12" frameY="0" frameWidth="2463" frameHeight="767"/>
+</TextureAtlas>

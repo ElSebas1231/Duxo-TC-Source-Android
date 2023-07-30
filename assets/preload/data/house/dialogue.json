@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "tomycatt normal",
+			"text": "¿Ves duxo? Nada malo ha pasado.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¡AÚN!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "tomycatt feliz",
+			"text": "Cry about it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "duxo tite",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.215,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Está bien...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.11,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Oigan, ahora que lo pienso...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "aquino2"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"boxState": "normal",
+			"expression": "confundidoAquino",
+			"text": "¿Soy el único que notó que hay un circo en una isla en medio del mar y que estoy flotando entre los autos?"
+		},
+		{
+			"expression": "tomycatt normal",
+			"text": "Quizás sea de alguien creativo que decidió poner el circo ahí.\nY de que estés flotando, es a la imaginación del jugador.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "tomycatt feliz",
+			"text": "Eso o quizás sea de un loquito.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Aunque yo voy más por la segunda opción la verdad.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

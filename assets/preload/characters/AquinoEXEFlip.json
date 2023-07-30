@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-283,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-579,
+				240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-246,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-628,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-575,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/AquinoEXE",
+	"position": [
+		200,
+		-200
+	],
+	"healthicon": "icon-aquino4",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		52,
+		132
+	],
+	"camera_position": [
+		230,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

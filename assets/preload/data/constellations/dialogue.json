@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "nimu",
+			"text": "No lo hacés tan mal Duco ¿Sale otra?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nimu",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Es Duxo...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Nimu, de verdad no estoy muy bien que digamos.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Solo quiero encontrar a Aquino y listo.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "derp",
+			"text": "¿Y qué te hace pensar que yo sé algo?",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nimu",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Bueno... ",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Tú sabes...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "La gente dice cosas sobre ustedes dos.",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "nimu desafiante",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"portrait": "nimu",
+			"speed": 0.05
+		},
+		{
+			"expression": "nimu enojao",
+			"text": "¡¡Volvés a mencionar eso y Aquino no será el único desaparecido!!!",
+			"boxState": "angry",
+			"sound": "",
+			"portrait": "nimu",
+			"speed": 0.05
+		}
+	]
+}

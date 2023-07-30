@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		0
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "youtube desafiante",
+			"anim": "youtube desafiante",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "youtube enojado",
+			"anim": "youtube enojado",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "youtube serio",
+			"anim": "youtube serio",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				120,
+				2
+			],
+			"idle_name": "youtube normal",
+			"anim": "youtube normal",
+			"loop_offsets": [
+				120,
+				2
+			]
+		}
+	],
+	"image": "youtube"
+}

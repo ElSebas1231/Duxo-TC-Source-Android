@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"IntroCorruption",
+						"Sonando:",
+						"Hater             De: Kimakurus Music (FNF x Duxo DLC 2)"
+					]
+				]
+			],
+			[
+				35113.6363636364,
+				[
+					[
+						"Camera Follow Pos",
+						"820",
+						"400"
+					]
+				]
+			],
+			[
+				52295.4545454545,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87818.1818181817,
+				[
+					[
+						"Camera Follow Pos",
+						"820",
+						"400"
+					]
+				]
+			],
+			[
+				105204.545454545,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

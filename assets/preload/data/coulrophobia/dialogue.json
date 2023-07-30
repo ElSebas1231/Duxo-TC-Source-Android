@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "clownso_glitch_takecare",
+			"text": "coolswag",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "clownso_virus"
+		},
+		{
+			"expression": "clownso_glitch_takecare",
+			"text": "Hi human. Do you like nightmares? ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "clownso_virus"
+		},
+		{
+			"expression": "clownso_glitch_takecare",
+			"text": "More than jokes, I know how to make nightmares real.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "clownso_virus"
+		},
+		{
+			"expression": "clownso_glitch_takecare",
+			"text": "Be careful. . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.135,
+			"portrait": "clownso_virus"
+		},
+		{
+			"expression": "clownso_glitch_takecare",
+			"text": "End of transmission 54 33 858 66...*+6\\n3\\n36564wa30ad03638w6a88AWD>>>",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.105,
+			"portrait": "clownso_virus"
+		},
+		{
+			"expression": "clownso corrupted 3",
+			"text": "Pesadillas. . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "clownsocorrupted"
+		},
+		{
+			"expression": "clownso corrupted 3",
+			"text": "Las pesadillas son mi especialidad, más si puedo causarlas en el paralelo y volverlas realidad.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "clownsocorrupted"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Todo bien?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Y porqué todo se está volviendo... Muy oscuro e intenso...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "clownso corrupted 2",
+			"text": "¡Verás lo que es una verdadera pesadilla enano!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "clownsocorrupted"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Amigo relajate, no lo dije tan literal.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "clownso corrupted 3",
+			"text": "Tú... Tú iras con él ¡Y verán lo que es una pesadilla de verdad!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "clownsocorrupted"
+		},
+		{
+			"expression": "clownso corrupted 1",
+			"text": "¡SUeRTE EN eL OTRo LAdO! ¡P0rQu3 tE 3SPerA UNa GRan FIEstA! JAjsjAJJSJASJHJSALOADHJASD AS5DA0DWAWf+\\nAWF\\nwf4as",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "clownsocorrupted"
+		}
+	]
+}

@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Intro2",
+						"Sonando:",
+						"Shield\nDe: Jomei Kujo"
+					]
+				]
+			],
+			[
+				41148.6486486486,
+				[
+					[
+						"Set Cam Zoom",
+						"1.15",
+						""
+					]
+				]
+			],
+			[
+				42060.81081081,
+				[
+					[
+						"Play Animation",
+						"changebgl",
+						"gf"
+					]
+				]
+			],
+			[
+				42162.1621621621,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				42162.1621621621,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pico"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-duxo"
+					]
+				]
+			],
+			[
+				96587.8378378379,
+				[
+					[
+						"Set Cam Zoom",
+						"1.15",
+						""
+					]
+				]
+			],
+			[
+				97297.2972972974,
+				[
+					[
+						"Play Animation",
+						"changebgn",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"lucasta"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

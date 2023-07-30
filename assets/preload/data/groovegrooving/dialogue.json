@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxo feliz",
+			"text": "Bueno, día nuevo, aventura nueva",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Tengo que pensar nuevos lugares en donde podría estar Aquino.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "Espera, ese es...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿Lucasta?!",
+			"sound": "",
+			"boxState": "angry",
+			"portrait": "duxo",
+			"speed": 0.05
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "¡Amigo Lucasta!",
+			"sound": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "lucasj",
+			"text": "¿Duxo? ¿Que onda mongolón?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "(Sip, definitivamente es Lucasta.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Lucasta...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Qué haces con ese escudo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "lucas",
+			"text": "Ah, pues tuve una alucinación en la que me pasaba algo raro...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"expression": "lucas",
+			"text": "Como si todo fuese morado y rosa. Así tipo una infección",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"expression": "talk",
+			"text": "Y desde entonces, estoy practicando defensa por si las dudas.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Bueno, solo fue una alucinación...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Después de todo fue solo eso...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Una alucinación...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "lucasd",
+			"text": "Uno tiene que estar listo para todo Duxo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Jeje... Supongo que tienes razón",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "lucas",
+			"text": "Emmm, ¿quieres practicar a tu manera Duxo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pingasta"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Si es cantando, me parece bien.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "lau",
+			"text": "Hace tiempo que no nos vemos querido Duxo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Lo sé. Y bueno...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxoconfuso",
+			"text": "¿Y cuáles son tus planes?"
+		},
+		{
+			"expression": "lau",
+			"sound": "",
+			"text": "Bueno querido amigo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lau"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau",
+			"boxState": "normal",
+			"expression": "lauf",
+			"text": "Mis planes son pasar un buen rato cantando y llevarte al lugar que quieras."
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "No tengo un lugar en específico.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pero tal vez estaría bien ir a un restaurante."
+		},
+		{
+			"expression": "lauc",
+			"text": "¿Tienes hambre?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Un poco...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxoconfuso",
+			"text": "No he comido desde hace 3 días."
+		},
+		{
+			"expression": "lauf",
+			"text": "Bueno, entonces te llevaré al restaurante más cercano y seguiré mi camino.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lau"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "¡Gracias!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"sound": "",
+			"portrait": "duxo"
+		}
+	]
+}

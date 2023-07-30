@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "locochon happy",
+			"text": "Hola jóvenes B)",
+			"boxState": "normal",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "locochon normal",
+			"text": "Noté que estabán dándole con todo.",
+			"boxState": "normal",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "locochon miedoso",
+			"text": "EN EL SENTIDO DE CANTAR, CLARO.",
+			"boxState": "angry",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "locochon happy",
+			"text": "Y quería saber si podría ser partícipe en esto.",
+			"boxState": "normal",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "miedoAquino",
+			"text": "¡Locochón!",
+			"boxState": "angry",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "Qué susto webón...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Ves Duxo, esto se puede poner interesante.",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Hey, eso fue...",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Muy preciso.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Estás seguro que no hablaste con él para que viniera?",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "nerviosoAquino",
+			"text": "Nop",
+			"boxState": "normal",
+			"portrait": "aquino2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "locochon serio",
+			"text": "Entonces...",
+			"boxState": "normal",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "locochon happy",
+			"text": "¿Se animan para unos beep bops?",
+			"boxState": "normal",
+			"portrait": "locochon2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Claro que sí Locochón.",
+			"boxState": "normal",
+			"portrait": "duxo",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

@@ -1,0 +1,212 @@
+{
+	"dialogue": [
+		{
+			"expression": "miedo",
+			"text": "¡No sé que pasó Duxo!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Todo pasó así de la nada..."
+		},
+		{
+			"expression": "shocked",
+			"text": "De un momento a otro... ¡El caos comenzó!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "pissed",
+			"text": "¡Todos gritaban! Y una nube morada cubrió todo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "excited",
+			"text": "La gente se comenzaba a transformar... En algo diferente...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "excited",
+			"text": "¡Todos se atacaban entre ellos! Y yo me tuve que esconder aquí...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Y pudiste ver a Aquino o algunos de nuestros amigos?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Cuando desperté no pude ver a nadie.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "pissed",
+			"text": "No sé de ningún amigo nuestro, ni de él.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Mierda...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxoconfuso",
+			"text": "¿Cuánto tiempo ha pasado desde qué esto pasó?"
+		},
+		{
+			"expression": "pissed",
+			"text": "Horas...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "duxo miedo",
+			"text": "¡¿Horas?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Literal todo está hecho mierda. No hay rastro de vida a parte de tí...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Además... No te ves muy bien que digamos.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "pissed",
+			"text": "No estoy bien...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "pissed",
+			"text": "Siento como si algo estuviera acabando conmigo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "talk",
+			"text": "Lentamente...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "miedo",
+			"text": "Cada segundo que pasa me siento menos yo..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Quizás debes distraerte un poco.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "¿Qué dices? ¿Te gustaría cantar algo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "¿Aquí...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		},
+		{
+			"expression": "duxo feliz",
+			"text": "Claro.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "¿Y qué hay si alguien nos escucha?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo",
+			"boxState": "normal",
+			"expression": "duxohabla",
+			"text": "No hay de qué preocuparse, parece que estamos solos."
+		},
+		{
+			"expression": "pissed",
+			"text": "Supongo que está bien...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "soaring"
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		20,
+		70
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-19,
+				73
+			],
+			"idle_offsets": [
+				-19,
+				73
+			],
+			"loop_name": "soarinng normal",
+			"idle_name": "soarinng normal"
+		},
+		{
+			"loop_offsets": [
+				-19,
+				75
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-19,
+				75
+			],
+			"loop_name": "soarinng miedo0000",
+			"idle_name": "soarinng miedo0000"
+		},
+		{
+			"loop_offsets": [
+				-24,
+				72
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-24,
+				72
+			],
+			"loop_name": "soarinng desanimado",
+			"idle_name": "soarinng desanimado"
+		},
+		{
+			"loop_offsets": [
+				-6,
+				80
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				79
+			],
+			"loop_name": "soarinng asustado",
+			"idle_name": "soarinng asustado"
+		},
+		{
+			"idle_offsets": [
+				-20,
+				74
+			],
+			"anim": "miedo",
+			"loop_offsets": [
+				-20,
+				74
+			],
+			"idle_name": "soarinng miedo 20000",
+			"loop_name": "soarinng miedo 20000"
+		}
+	],
+	"image": "soarinng"
+}

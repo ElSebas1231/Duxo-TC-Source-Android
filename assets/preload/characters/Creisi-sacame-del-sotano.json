@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CREISI IDL"
+		},
+		{
+			"offsets": [
+				-200,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CREISI IDL"
+		},
+		{
+			"offsets": [
+				-200,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CREISI IDL"
+		},
+		{
+			"offsets": [
+				-200,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CREISI IDL"
+		},
+		{
+			"offsets": [
+				-200,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CREISI IDL"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/creisi-dejame-salir2_assets",
+	"position": [
+		-450,
+		-50
+	],
+	"healthicon": "icon-creisi",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		20,
+		122
+	],
+	"camera_position": [
+		80,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

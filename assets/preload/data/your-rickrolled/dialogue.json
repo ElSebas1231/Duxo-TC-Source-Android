@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "nerviosoAquino",
+			"text": "Duxo",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "enojadoAquino",
+			"text": "Ya es algo tarde, recuerda que tenemos que ir con Andreh y Creisi.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Es cierto...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "¿Listo para ver quién gana esto Locochón?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "locochon happy",
+			"text": "Siempre estoy listo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Locochon2"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "¿Para perder?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "locochon serio",
+			"text": "Ya veremos eso...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Locochon2"
+		}
+	]
+}

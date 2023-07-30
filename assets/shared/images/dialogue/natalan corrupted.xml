@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="natalan corrupted.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="natalan corrupted 10000" x="0" y="0" width="417" height="599"/>
+	<SubTexture name="natalan corrupted 20000" x="417" y="0" width="537" height="599"/>
+	<SubTexture name="natalan corrupted 30000" x="954" y="0" width="349" height="599"/>
+</TextureAtlas>

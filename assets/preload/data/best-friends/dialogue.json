@@ -1,0 +1,139 @@
+{
+	"dialogue": [
+		{
+			"expression": "locochon enojao",
+			"text": "Amigos, se tardaron bastante.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aquino2",
+			"boxState": "normal",
+			"expression": "felizAquino",
+			"text": "No seas dramático Locochón, si solo fueron 2 horas más o menos."
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "Bueno... Quizás si nos tardamos un poco.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "locochon enojao",
+			"text": "¿Tu crées?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "tomycatt 2 feliz",
+			"text": "Bueno Locochón, estábamos hablando Duxo y yo sobre hacer un 2 vs 1, ¿te animas?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt2"
+		},
+		{
+			"expression": "locochon serio",
+			"text": "No lo sé loco, ese Duxo está bien insano.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "locochon enojao",
+			"text": "Me hizo mierda la vez que rapeamos.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "duxohabla",
+			"text": "Está bien Locochón, no todos tienen talento. Se entiende.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "locochon enojao",
+			"text": "Ya Tomy, ¿sabes qué?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "locochon enojao",
+			"text": "¡Hagámoslo!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"expression": "locochon enojao",
+			"text": "¡2 VS 1 DUXO!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "locochon2",
+			"boxState": "normal",
+			"expression": "locochon enojao",
+			"text": "¡TE PIENSO HUMILLAR COMO NO TIENES IDEA LOCO!"
+		},
+		{
+			"expression": "tomycatt 2 feliz",
+			"text": "¡Así se habla Locochón! ¡Ahora toca demostrar todo lo que tenemos!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tomycatt2"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Oigan amigos, sé que ya dije esto.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "desanimadoAquino",
+			"text": "Pero ya no siento mi cuello desde hace un buen rato.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "enojaoDuxo",
+			"text": "Aquino cállate, que ya vamos a empezar.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "ok.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		}
+	]
+}

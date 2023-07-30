@@ -1,0 +1,50 @@
+{
+	"position": [
+		20,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1.1,
+	"image": "natalan corrupted",
+	"animations": [
+		{
+			"idle_offsets": [
+				-61,
+				59
+			],
+			"loop_offsets": [
+				-60,
+				60
+			],
+			"anim": "talk",
+			"idle_name": "natalan corrupted 10000",
+			"loop_name": "natalan corrupted 10000"
+		},
+		{
+			"idle_offsets": [
+				-57,
+				52
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				-57,
+				53
+			],
+			"idle_name": "natalan corrupted 20000",
+			"loop_name": "natalan corrupted 20000"
+		},
+		{
+			"idle_offsets": [
+				-20,
+				50
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				-20,
+				50
+			],
+			"idle_name": "natalan corrupted 30000",
+			"loop_name": "natalan corrupted 30000"
+		}
+	]
+}

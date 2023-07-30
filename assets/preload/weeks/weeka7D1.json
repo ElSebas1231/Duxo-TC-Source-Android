@@ -1,0 +1,44 @@
+{
+	"storyName": "Bromita jiji",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeka6D1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Party",
+			"icon-clownso",
+			[
+				85,
+				17,
+				71
+			]
+		],
+		[
+			"Balloons",
+			"icon-clownso",
+			[
+				85,
+				17,
+				71
+			]
+		],
+		[
+			"Coulrophobia",
+			"icon-corrupted-clownso",
+			[
+				45,
+				17,
+				71
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 7 FNF X Duxo"
+}

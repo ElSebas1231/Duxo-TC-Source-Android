@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		10,
+		20
+	],
+	"scale": 0.95,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-60,
+				73
+			],
+			"idle_offsets": [
+				-61,
+				73
+			],
+			"loop_name": "lau corrupted 10000",
+			"idle_name": "lau corrupted 10000"
+		},
+		{
+			"loop_offsets": [
+				-55,
+				70
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-56,
+				72
+			],
+			"loop_name": "lau corrupted 20000",
+			"idle_name": "lau corrupted 20000"
+		},
+		{
+			"loop_offsets": [
+				-110,
+				80
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-110,
+				80
+			],
+			"loop_name": "lau corrupted 30000",
+			"idle_name": "lau corrupted 30000"
+		}
+	],
+	"image": "lau corrupted"
+}

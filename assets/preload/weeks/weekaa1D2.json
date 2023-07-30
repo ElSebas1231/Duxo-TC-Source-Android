@@ -1,0 +1,44 @@
+{
+	"storyName": "el legendario afiliado",
+	"hideFreeplay": false,
+	"weekBackground": "duxo",
+	"weekBefore": "weeka7D1",
+	"startUnlocked": true,
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Afiliado",
+			"soa",
+			[
+				252,
+				192,
+				53
+			]
+		],
+		[
+			"Rocking",
+			"soa",
+			[
+				252,
+				192,
+				53
+			]
+		],
+		[
+			"Partner",
+			"soa",
+			[
+				252,
+				192,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 8 FNF X Duxo"
+}

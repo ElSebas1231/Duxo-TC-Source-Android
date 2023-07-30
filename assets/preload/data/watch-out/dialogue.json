@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxoconfuso",
+			"text": "En serio, ¿fecha de qué?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "ratoncito feliz",
+			"text": "¡Eso fue épico! ¡Sumamente divertido y épico!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"expression": "talkAquino",
+			"text": "Bastante entretenido la verdad.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "Porqué nadie me responde que fecha hablan...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "enojadoAquino",
+			"text": "Duxo ya cállate, no hagas preguntas tontas.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aquino2"
+		},
+		{
+			"expression": "duxo tite",
+			"text": "pero quiero saber :c",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "talk",
+			"text": "¿Podemos cantar otras dos más?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ratoncito"
+		},
+		{
+			"expression": "talkDuxo",
+			"text": "Está bien.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

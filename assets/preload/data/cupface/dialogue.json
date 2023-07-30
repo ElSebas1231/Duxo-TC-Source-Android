@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "duxohabla",
+			"text": "Oye C3jo, no quería preguntartelo al principio pero...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "duxo nervioso",
+			"text": "¿Porque cargas un arma en un lugar público?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		},
+		{
+			"expression": "c3jo normal",
+			"text": "Necesidades del guión o del Spritesheet supongo.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "c3jo"
+		},
+		{
+			"expression": "duxoconfuso",
+			"text": "¿Necesidades de qué?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "duxo"
+		}
+	]
+}

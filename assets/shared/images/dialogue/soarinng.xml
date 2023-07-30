@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="soarinng.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="soarinng asustado0000" x="0" y="0" width="494" height="558"/>
+	<SubTexture name="soarinng desanimado0000" x="494" y="0" width="382" height="544"/>
+	<SubTexture name="soarinng miedo0000" x="876" y="0" width="461" height="548"/>
+	<SubTexture name="soarinng miedo 20000" x="1337" y="0" width="451" height="546"/>
+	<SubTexture name="soarinng normal0000" x="0" y="558" width="459" height="544"/>
+</TextureAtlas>
